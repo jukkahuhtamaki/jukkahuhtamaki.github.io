@@ -5,7 +5,13 @@
   <script  type="text/javascript">
     $(document).ready(function() 
       { 
-          $("table").tablesorter(); 
+          $("table").tablesorter({
+            // default sortInitialOrder setting
+            sortInitialOrder: "desc",
+            headers: {
+              1: { sortInitialOrder: "asc" }
+            }
+            }); 
       } 
 ); 
   </script>
