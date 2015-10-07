@@ -67,3 +67,9 @@ ul, ol, div, p {
   min-height: 100%;
 }
 */
+
+.reveal section.present {
+    bottom: 0px;
+    overflow-y: auto  !important;
+    overflow-x: hidden !important;
+  }
