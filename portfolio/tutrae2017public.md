@@ -21,7 +21,7 @@ Innovation Ecosystems Network (IEN) -ryhmän kautta tiivistä innovaatio- ja lii
 
 Tavoiteena on ensitöiksi viimeistellä innovaatioekosysteemien laskennallista verkostoanalytiikkaa käsittelevän väitöskirjan käsikirjoitus esitarkastusta varten. Pidemmällä tähtäimellä tavoitteenani on kehittää metodi- ja tutkimusmenetelmäosaamista: ottaa haltuun osittain rakenteisten ja rakenteettomien aineistojen (semi-structured and unstructured data) jalostamisessa keskeisiä koneoppimisen menetelmiä ja opetella ryhdikkäiden koeasetelmien suunnittelua ja toteuttamista tietoteknisten artefaktien arvioimisen ja kehittämisen tueksi. Oppia tekemään tiiviimpää yritysyhteistyötä tutkimushankkeissa siten, että painopiste säilyy kansainvälisen tason akateemisessa työssä. Löytää hyvähenkinen ja kovatasoinen ryhmä, jonka puitteissa on mahdollista syventyä digitaalisten ekosysteemien laaja-alaiseen ja pitkäjänteiseen tutkimukseen.
 
-- ryhmän rahoitus 2010-2015 (SA,Tekes, EU, Yritys, Muu)
+## ryhmän rahoitus 2010-2015 (SA,Tekes, EU, Yritys, Muu)
 
 Ulkoinen rahoitus tutkimus- ja kehityshankkeissa vuosina 2010-2015 yhteensä 634 549 EURoa. Tässä mukana Tekesin innovaatiotutkimuksen ohjelmaan kuuluneet hankkeet Sindi (10/2010-12/2012), Reino (01/2013-04/2015) ja SPEED (01/2014-03/2015).
 
