@@ -1,7 +1,7 @@
 # TUT RAE 2017 | Jukka Huhtamäki
 
 - ORCID: [http://orcid.org/0000-0003-2707-108X](http://orcid.org/0000-0003-2707-108X)
-- Google Scholar: [https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ]https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ
+- Google Scholar: [https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ](https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ)
 - ResearchGate: [https://www.researchgate.net/profile/Jukka_Huhtamaeki](https://www.researchgate.net/profile/Jukka_Huhtamaeki)
 - Scopus Author ID: [http://www.scopus.com/authid/detail.url?authorId=35484079200](http://www.scopus.com/authid/detail.url?authorId=35484079200)
 
