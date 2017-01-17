@@ -44,7 +44,7 @@
           <attvalue for="id_copy" value="Virtuix Omni"></attvalue>
         </attvalues>
         <viz:size value="3.881933"></viz:size>
-        <viz:position x="70.07852" y="159.11699"></viz:position>
+        <viz:position x="49.109947" y="112.85826"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Games Department" label="Games Department">
@@ -60,7 +60,7 @@
           <attvalue for="id_copy" value="Games Department"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="93.24571" y="398.6369"></viz:position>
+        <viz:position x="65.5126" y="282.07715"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Customer Relationship Management" label="Customer Relationship Management">
@@ -76,7 +76,7 @@
           <attvalue for="id_copy" value="Customer Relationship Management"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-234.66641" y="251.77754"></viz:position>
+        <viz:position x="-165.92044" y="177.85023"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Viximo" label="Viximo">
@@ -92,7 +92,7 @@
           <attvalue for="id_copy" value="Viximo"></attvalue>
         </attvalues>
         <viz:size value="2.2344546"></viz:size>
-        <viz:position x="-191.83792" y="200.65494"></viz:position>
+        <viz:position x="-135.562" y="141.77374"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Charity" label="Charity">
@@ -108,7 +108,7 @@
           <attvalue for="id_copy" value="Charity"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-349.1428" y="-33.851078"></viz:position>
+        <viz:position x="-281.29947" y="-19.82364"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Innovation Games" label="Innovation Games">
@@ -124,7 +124,7 @@
           <attvalue for="id_copy" value="Innovation Games"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-67.77114" y="-307.59863"></viz:position>
+        <viz:position x="-47.462093" y="-217.13332"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="LoyaltyMatch OnDemand" label="LoyaltyMatch OnDemand">
@@ -140,7 +140,7 @@
           <attvalue for="id_copy" value="LoyaltyMatch OnDemand"></attvalue>
         </attvalues>
         <viz:size value="1.5804992"></viz:size>
-        <viz:position x="-262.70288" y="180.62096"></viz:position>
+        <viz:position x="-185.52684" y="127.492256"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Leaguevine" label="Leaguevine">
@@ -156,7 +156,7 @@
           <attvalue for="id_copy" value="Leaguevine"></attvalue>
         </attvalues>
         <viz:size value="1.0802565"></viz:size>
-        <viz:position x="103.95173" y="-356.08035"></viz:position>
+        <viz:position x="73.54904" y="-251.60657"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="BinaryBeast" label="BinaryBeast">
@@ -172,7 +172,7 @@
           <attvalue for="id_copy" value="BinaryBeast"></attvalue>
         </attvalues>
         <viz:size value="1.815697"></viz:size>
-        <viz:position x="-166.83784" y="66.85947"></viz:position>
+        <viz:position x="-117.454254" y="47.161594"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="XML ME Video Games Finder" label="XML ME Video Games Finder">
@@ -188,7 +188,7 @@
           <attvalue for="id_copy" value="XML ME Video Games Finder"></attvalue>
         </attvalues>
         <viz:size value="1.2270396"></viz:size>
-        <viz:position x="58.0872" y="-158.52129"></viz:position>
+        <viz:position x="41.802464" y="-111.81444"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Everyplay" label="Everyplay">
@@ -204,7 +204,7 @@
           <attvalue for="id_copy" value="Everyplay"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-172.28302" y="114.090096"></viz:position>
+        <viz:position x="-121.63265" y="80.65991"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Au DÃ©fi" label="Au DÃ©fi">
@@ -220,7 +220,7 @@
           <attvalue for="id_copy" value="Au DÃ©fi"></attvalue>
         </attvalues>
         <viz:size value="8.445261"></viz:size>
-        <viz:position x="-40.41205" y="262.67496"></viz:position>
+        <viz:position x="-28.676167" y="185.83781"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Doomworld idGames Archive Public" label="Doomworld idGames Archive Public">
@@ -236,7 +236,7 @@
           <attvalue for="id_copy" value="Doomworld idGames Archive Public"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-33.167885" y="-197.46591"></viz:position>
+        <viz:position x="-23.098257" y="-139.13211"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="VirWoX" label="VirWoX">
@@ -252,7 +252,7 @@
           <attvalue for="id_copy" value="VirWoX"></attvalue>
         </attvalues>
         <viz:size value="3.8283908"></viz:size>
-        <viz:position x="-201.90334" y="18.191078"></viz:position>
+        <viz:position x="-144.62804" y="12.242639"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="TicTacToe" label="TicTacToe">
@@ -268,7 +268,7 @@
           <attvalue for="id_copy" value="TicTacToe"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="359.58783" y="-225.11015"></viz:position>
+        <viz:position x="254.11787" y="-159.69334"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="CheapShark" label="CheapShark">
@@ -284,7 +284,7 @@
           <attvalue for="id_copy" value="CheapShark"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-356.68686" y="235.26273"></viz:position>
+        <viz:position x="-252.23026" y="165.91513"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="MediaSpike" label="MediaSpike">
@@ -300,7 +300,7 @@
           <attvalue for="id_copy" value="MediaSpike"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="289.30338" y="134.9865"></viz:position>
+        <viz:position x="204.7326" y="95.88219"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Infostrada Sports" label="Infostrada Sports">
@@ -316,7 +316,7 @@
           <attvalue for="id_copy" value="Infostrada Sports"></attvalue>
         </attvalues>
         <viz:size value="2.3200495"></viz:size>
-        <viz:position x="128.76877" y="-380.91708"></viz:position>
+        <viz:position x="90.980675" y="-269.22534"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="EVE Online XML" label="EVE Online XML">
@@ -332,7 +332,7 @@
           <attvalue for="id_copy" value="EVE Online XML"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-57.910786" y="-14.640128"></viz:position>
+        <viz:position x="-41.71115" y="-10.858002"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="SC2Ranks" label="SC2Ranks">
@@ -348,7 +348,7 @@
           <attvalue for="id_copy" value="SC2Ranks"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-32.851578" y="-402.6625"></viz:position>
+        <viz:position x="-23.25157" y="-284.49536"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Conversions" label="Conversions">
@@ -364,7 +364,7 @@
           <attvalue for="id_copy" value="Conversions"></attvalue>
         </attvalues>
         <viz:size value="1.6928482"></viz:size>
-        <viz:position x="224.40677" y="-223.60428"></viz:position>
+        <viz:position x="158.83855" y="-157.94717"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Android: Netrunner Card Database" label="Android: Netrunner Card Database">
@@ -380,7 +380,7 @@
           <attvalue for="id_copy" value="Android: Netrunner Card Database"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-68.99786" y="18.944387"></viz:position>
+        <viz:position x="-48.74848" y="14.548424"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="World of Warcraft" label="World of Warcraft">
@@ -396,7 +396,7 @@
           <attvalue for="id_copy" value="World of Warcraft"></attvalue>
         </attvalues>
         <viz:size value="1.3071778"></viz:size>
-        <viz:position x="111.04297" y="-339.67593"></viz:position>
+        <viz:position x="78.595856" y="-239.99265"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Battle.net APIs" label="Battle.net APIs">
@@ -412,7 +412,7 @@
           <attvalue for="id_copy" value="Battle.net APIs"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="95.61021" y="51.397217"></viz:position>
+        <viz:position x="67.75039" y="36.6252"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Java Game Tome" label="Java Game Tome">
@@ -428,7 +428,7 @@
           <attvalue for="id_copy" value="Java Game Tome"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-13.08592" y="62.948063"></viz:position>
+        <viz:position x="-8.198602" y="43.183666"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Bots" label="Bots">
@@ -444,7 +444,7 @@
           <attvalue for="id_copy" value="Bots"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-71.80616" y="333.42355"></viz:position>
+        <viz:position x="-51.13847" y="235.74532"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="SecondLife" label="SecondLife">
@@ -460,7 +460,7 @@
           <attvalue for="id_copy" value="SecondLife"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="204.8241" y="-134.43579"></viz:position>
+        <viz:position x="147.18971" y="-93.5529"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Google Nearby" label="Google Nearby">
@@ -476,7 +476,7 @@
           <attvalue for="id_copy" value="Google Nearby"></attvalue>
         </attvalues>
         <viz:size value="1.0045284"></viz:size>
-        <viz:position x="-335.09372" y="-261.08563"></viz:position>
+        <viz:position x="-236.8719" y="-184.80667"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="NewHaze" label="NewHaze">
@@ -492,7 +492,7 @@
           <attvalue for="id_copy" value="NewHaze"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-146.53671" y="125.39461"></viz:position>
+        <viz:position x="-103.43705" y="88.539215"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="PSN Sign In" label="PSN Sign In">
@@ -508,7 +508,7 @@
           <attvalue for="id_copy" value="PSN Sign In"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="13.463388" y="-416.8722"></viz:position>
+        <viz:position x="9.444485" y="-294.60455"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="GamerCV" label="GamerCV">
@@ -524,7 +524,7 @@
           <attvalue for="id_copy" value="GamerCV"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-152.5332" y="137.42375"></viz:position>
+        <viz:position x="-107.620445" y="97.11175"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="GameStamper Graph" label="GameStamper Graph">
@@ -540,7 +540,7 @@
           <attvalue for="id_copy" value="GameStamper Graph"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-134.41602" y="-208.52983"></viz:position>
+        <viz:position x="-94.8937" y="-147.87682"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Play Truly Random" label="Play Truly Random">
@@ -556,7 +556,7 @@
           <attvalue for="id_copy" value="Play Truly Random"></attvalue>
         </attvalues>
         <viz:size value="1.0631382"></viz:size>
-        <viz:position x="226.3392" y="-195.6718"></viz:position>
+        <viz:position x="160.14517" y="-138.52254"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Squirrel Tools" label="Squirrel Tools">
@@ -572,7 +572,7 @@
           <attvalue for="id_copy" value="Squirrel Tools"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-135.27034" y="-197.87126"></viz:position>
+        <viz:position x="-95.49694" y="-140.33658"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Google Play Game Services Management" label="Google Play Game Services Management">
@@ -588,7 +588,7 @@
           <attvalue for="id_copy" value="Google Play Game Services Management"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="283.4237" y="90.16174"></viz:position>
+        <viz:position x="200.7661" y="63.928436"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Halo Metadata" label="Halo Metadata">
@@ -604,7 +604,7 @@
           <attvalue for="id_copy" value="Halo Metadata"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-98.18332" y="-255.12376"></viz:position>
+        <viz:position x="-68.7812" y="-180.00682"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="DeckBrew Magic: The Gathering" label="DeckBrew Magic: The Gathering">
@@ -620,7 +620,7 @@
           <attvalue for="id_copy" value="DeckBrew Magic: The Gathering"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-71.98214" y="42.16776"></viz:position>
+        <viz:position x="-50.29677" y="30.581123"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="BringIt" label="BringIt">
@@ -636,7 +636,7 @@
           <attvalue for="id_copy" value="BringIt"></attvalue>
         </attvalues>
         <viz:size value="1.3962255"></viz:size>
-        <viz:position x="-277.94757" y="247.82497"></viz:position>
+        <viz:position x="-196.5614" y="174.90729"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Fishbans" label="Fishbans">
@@ -652,7 +652,7 @@
           <attvalue for="id_copy" value="Fishbans"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="385.32285" y="-154.63625"></viz:position>
+        <viz:position x="272.48676" y="-109.802795"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="IActionable" label="IActionable">
@@ -668,7 +668,7 @@
           <attvalue for="id_copy" value="IActionable"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-61.757046" y="-28.265293"></viz:position>
+        <viz:position x="-46.288372" y="-20.29626"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Backend" label="Backend">
@@ -684,7 +684,7 @@
           <attvalue for="id_copy" value="Backend"></attvalue>
         </attvalues>
         <viz:size value="2.1421046"></viz:size>
-        <viz:position x="258.02408" y="39.964428"></viz:position>
+        <viz:position x="183.09259" y="27.69066"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Traveller Map" label="Traveller Map">
@@ -700,7 +700,7 @@
           <attvalue for="id_copy" value="Traveller Map"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="216.09569" y="-134.13803"></viz:position>
+        <viz:position x="153.38606" y="-102.39871"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Analytics" label="Analytics">
@@ -716,7 +716,7 @@
           <attvalue for="id_copy" value="Analytics"></attvalue>
         </attvalues>
         <viz:size value="5.8927617"></viz:size>
-        <viz:position x="234.85326" y="292.86368"></viz:position>
+        <viz:position x="166.01234" y="207.3522"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="LSG Lightspeed Reseller" label="LSG Lightspeed Reseller">
@@ -732,7 +732,7 @@
           <attvalue for="id_copy" value="LSG Lightspeed Reseller"></attvalue>
         </attvalues>
         <viz:size value="1.3681998"></viz:size>
-        <viz:position x="-254.25313" y="329.6891"></viz:position>
+        <viz:position x="-179.91628" y="232.83073"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Competitions" label="Competitions">
@@ -748,7 +748,7 @@
           <attvalue for="id_copy" value="Competitions"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-244.00975" y="-200.11037"></viz:position>
+        <viz:position x="-171.5505" y="-141.28096"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Products" label="Products">
@@ -764,7 +764,7 @@
           <attvalue for="id_copy" value="Products"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="78.11378" y="257.6174"></viz:position>
+        <viz:position x="55.454082" y="182.4594"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Application Development" label="Application Development">
@@ -780,7 +780,7 @@
           <attvalue for="id_copy" value="Application Development"></attvalue>
         </attvalues>
         <viz:size value="7.775298"></viz:size>
-        <viz:position x="430.43338" y="-42.209908"></viz:position>
+        <viz:position x="304.53934" y="-30.263374"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Captain Up" label="Captain Up">
@@ -796,7 +796,7 @@
           <attvalue for="id_copy" value="Captain Up"></attvalue>
         </attvalues>
         <viz:size value="4.7798576"></viz:size>
-        <viz:position x="-116.50941" y="238.31902"></viz:position>
+        <viz:position x="-82.31849" y="168.45032"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Eve-Central" label="Eve-Central">
@@ -812,7 +812,7 @@
           <attvalue for="id_copy" value="Eve-Central"></attvalue>
         </attvalues>
         <viz:size value="2.2599137"></viz:size>
-        <viz:position x="-277.83243" y="-54.794415"></viz:position>
+        <viz:position x="-193.16444" y="-38.085926"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Identity" label="Identity">
@@ -828,7 +828,7 @@
           <attvalue for="id_copy" value="Identity"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="398.78662" y="-137.19656"></viz:position>
+        <viz:position x="281.98584" y="-97.464584"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="PlayCanvas" label="PlayCanvas">
@@ -844,7 +844,7 @@
           <attvalue for="id_copy" value="PlayCanvas"></attvalue>
         </attvalues>
         <viz:size value="1.4919472"></viz:size>
-        <viz:position x="97.05195" y="95.82065"></viz:position>
+        <viz:position x="68.90756" y="68.03811"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Guild Wars 2" label="Guild Wars 2">
@@ -860,7 +860,7 @@
           <attvalue for="id_copy" value="Guild Wars 2"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-2.6085074" y="-131.79514"></viz:position>
+        <viz:position x="-0.88834167" y="-92.889626"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Infinario" label="Infinario">
@@ -876,7 +876,7 @@
           <attvalue for="id_copy" value="Infinario"></attvalue>
         </attvalues>
         <viz:size value="1.6829027"></viz:size>
-        <viz:position x="304.54407" y="251.73198"></viz:position>
+        <viz:position x="215.37335" y="178.2325"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="OpenCaching" label="OpenCaching">
@@ -892,7 +892,7 @@
           <attvalue for="id_copy" value="OpenCaching"></attvalue>
         </attvalues>
         <viz:size value="1.2883155"></viz:size>
-        <viz:position x="177.43707" y="-247.56183"></viz:position>
+        <viz:position x="125.57742" y="-174.85834"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Unofficial JeuxVideo" label="Unofficial JeuxVideo">
@@ -908,7 +908,7 @@
           <attvalue for="id_copy" value="Unofficial JeuxVideo"></attvalue>
         </attvalues>
         <viz:size value="2.02316"></viz:size>
-        <viz:position x="65.462524" y="-201.00517"></viz:position>
+        <viz:position x="46.84706" y="-141.92644"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="TheGamesDB.net" label="TheGamesDB.net">
@@ -924,7 +924,7 @@
           <attvalue for="id_copy" value="TheGamesDB.net"></attvalue>
         </attvalues>
         <viz:size value="2.0958776"></viz:size>
-        <viz:position x="-68.43231" y="-227.33994"></viz:position>
+        <viz:position x="-47.844975" y="-160.29167"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Chat" label="Chat">
@@ -940,7 +940,7 @@
           <attvalue for="id_copy" value="Chat"></attvalue>
         </attvalues>
         <viz:size value="3.0666988"></viz:size>
-        <viz:position x="-207.72025" y="378.80255"></viz:position>
+        <viz:position x="-147.16502" y="267.71338"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="LandGrab" label="LandGrab">
@@ -956,7 +956,7 @@
           <attvalue for="id_copy" value="LandGrab"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-2.271624" y="23.83006"></viz:position>
+        <viz:position x="-2.1575184" y="17.792192"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="GameBanana" label="GameBanana">
@@ -972,7 +972,7 @@
           <attvalue for="id_copy" value="GameBanana"></attvalue>
         </attvalues>
         <viz:size value="2.509344"></viz:size>
-        <viz:position x="-9.625832" y="104.66166"></viz:position>
+        <viz:position x="-6.600182" y="74.10302"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Cloud" label="Cloud">
@@ -988,7 +988,7 @@
           <attvalue for="id_copy" value="Cloud"></attvalue>
         </attvalues>
         <viz:size value="1.592915"></viz:size>
-        <viz:position x="457.33118" y="-61.67645"></viz:position>
+        <viz:position x="323.5041" y="-44.06974"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Campaigns" label="Campaigns">
@@ -1004,7 +1004,7 @@
           <attvalue for="id_copy" value="Campaigns"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="34.51205" y="256.12906"></viz:position>
+        <viz:position x="24.448713" y="181.20795"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Braineos" label="Braineos">
@@ -1020,7 +1020,7 @@
           <attvalue for="id_copy" value="Braineos"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="78.1642" y="354.08835"></viz:position>
+        <viz:position x="54.926327" y="250.568"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="SteamRank" label="SteamRank">
@@ -1036,7 +1036,7 @@
           <attvalue for="id_copy" value="SteamRank"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-49.05588" y="-26.034145"></viz:position>
+        <viz:position x="-36.527767" y="-19.352804"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="IsaaCloud" label="IsaaCloud">
@@ -1052,7 +1052,7 @@
           <attvalue for="id_copy" value="IsaaCloud"></attvalue>
         </attvalues>
         <viz:size value="3.5955591"></viz:size>
-        <viz:position x="-119.47631" y="-7.1548595"></viz:position>
+        <viz:position x="-84.02104" y="-4.8881817"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="VoiceBunny" label="VoiceBunny">
@@ -1068,7 +1068,7 @@
           <attvalue for="id_copy" value="VoiceBunny"></attvalue>
         </attvalues>
         <viz:size value="3.0550241"></viz:size>
-        <viz:position x="-126.56261" y="181.83029"></viz:position>
+        <viz:position x="-89.11074" y="128.4405"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Box Office Buz" label="Box Office Buz">
@@ -1084,7 +1084,7 @@
           <attvalue for="id_copy" value="Box Office Buz"></attvalue>
         </attvalues>
         <viz:size value="4.4650607"></viz:size>
-        <viz:position x="-4.0508327" y="-15.314275"></viz:position>
+        <viz:position x="-2.2489784" y="-10.4198675"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Unofficial Fitocracy" label="Unofficial Fitocracy">
@@ -1100,7 +1100,7 @@
           <attvalue for="id_copy" value="Unofficial Fitocracy"></attvalue>
         </attvalues>
         <viz:size value="1.8360269"></viz:size>
-        <viz:position x="-222.96088" y="148.15747"></viz:position>
+        <viz:position x="-157.43802" y="104.63623"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Scoreoid" label="Scoreoid">
@@ -1116,7 +1116,7 @@
           <attvalue for="id_copy" value="Scoreoid"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-156.1853" y="114.80307"></viz:position>
+        <viz:position x="-110.30459" y="81.105095"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Office" label="Office">
@@ -1132,7 +1132,7 @@
           <attvalue for="id_copy" value="Office"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-71.06482" y="-389.39087"></viz:position>
+        <viz:position x="-50.28927" y="-275.12674"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="WaniKani" label="WaniKani">
@@ -1148,7 +1148,7 @@
           <attvalue for="id_copy" value="WaniKani"></attvalue>
         </attvalues>
         <viz:size value="2.8581717"></viz:size>
-        <viz:position x="150.41862" y="369.95334"></viz:position>
+        <viz:position x="106.03884" y="261.8534"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Bungie" label="Bungie">
@@ -1164,7 +1164,7 @@
           <attvalue for="id_copy" value="Bungie"></attvalue>
         </attvalues>
         <viz:size value="1.6226871"></viz:size>
-        <viz:position x="-159.96404" y="169.52031"></viz:position>
+        <viz:position x="-112.83376" y="119.84596"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Derpibooru" label="Derpibooru">
@@ -1180,7 +1180,7 @@
           <attvalue for="id_copy" value="Derpibooru"></attvalue>
         </attvalues>
         <viz:size value="2.5495088"></viz:size>
-        <viz:position x="-111.370605" y="-18.854788"></viz:position>
+        <viz:position x="-78.295265" y="-13.240076"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Absorbent" label="Absorbent">
@@ -1196,7 +1196,7 @@
           <attvalue for="id_copy" value="Absorbent"></attvalue>
         </attvalues>
         <viz:size value="4.1394935"></viz:size>
-        <viz:position x="355.72" y="-150.72763"></viz:position>
+        <viz:position x="251.6177" y="-106.92431"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="BF4 Stats" label="BF4 Stats">
@@ -1212,7 +1212,7 @@
           <attvalue for="id_copy" value="BF4 Stats"></attvalue>
         </attvalues>
         <viz:size value="2.8117428"></viz:size>
-        <viz:position x="43.410103" y="-237.36176"></viz:position>
+        <viz:position x="31.170645" y="-167.55516"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Giant Bomb" label="Giant Bomb">
@@ -1228,7 +1228,7 @@
           <attvalue for="id_copy" value="Giant Bomb"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-67.78396" y="-5.7070646"></viz:position>
+        <viz:position x="-48.351715" y="-3.3273332"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Diablo 3" label="Diablo 3">
@@ -1244,7 +1244,7 @@
           <attvalue for="id_copy" value="Diablo 3"></attvalue>
         </attvalues>
         <viz:size value="1.3071778"></viz:size>
-        <viz:position x="111.090416" y="-332.92142"></viz:position>
+        <viz:position x="78.6484" y="-235.2159"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Energy" label="Energy">
@@ -1260,7 +1260,7 @@
           <attvalue for="id_copy" value="Energy"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="412.32455" y="16.341059"></viz:position>
+        <viz:position x="291.72803" y="11.1624"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="zKillboard" label="zKillboard">
@@ -1276,7 +1276,7 @@
           <attvalue for="id_copy" value="zKillboard"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="62.63966" y="-342.5219"></viz:position>
+        <viz:position x="44.379715" y="-242.02245"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Hosting" label="Hosting">
@@ -1292,7 +1292,7 @@
           <attvalue for="id_copy" value="Hosting"></attvalue>
         </attvalues>
         <viz:size value="1.3164184"></viz:size>
-        <viz:position x="-286.32397" y="336.0136"></viz:position>
+        <viz:position x="-202.65689" y="237.24994"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Apportable" label="Apportable">
@@ -1308,7 +1308,7 @@
           <attvalue for="id_copy" value="Apportable"></attvalue>
         </attvalues>
         <viz:size value="2.3097582"></viz:size>
-        <viz:position x="249.43321" y="-75.350075"></viz:position>
+        <viz:position x="176.67422" y="-53.069168"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Community" label="Community">
@@ -1324,7 +1324,7 @@
           <attvalue for="id_copy" value="Community"></attvalue>
         </attvalues>
         <viz:size value="3.9343345"></viz:size>
-        <viz:position x="93.0181" y="43.218758"></viz:position>
+        <viz:position x="65.98209" y="30.830105"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Social" label="Social">
@@ -1340,7 +1340,7 @@
           <attvalue for="id_copy" value="Social"></attvalue>
         </attvalues>
         <viz:size value="50.0"></viz:size>
-        <viz:position x="-165.49484" y="132.55669"></viz:position>
+        <viz:position x="-116.80104" y="93.70585"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Meez" label="Meez">
@@ -1356,7 +1356,7 @@
           <attvalue for="id_copy" value="Meez"></attvalue>
         </attvalues>
         <viz:size value="1.3207728"></viz:size>
-        <viz:position x="143.71672" y="-64.8969"></viz:position>
+        <viz:position x="102.56466" y="-44.919365"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Warlight" label="Warlight">
@@ -1372,7 +1372,7 @@
           <attvalue for="id_copy" value="Warlight"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-51.677044" y="-2.927802"></viz:position>
+        <viz:position x="-38.29004" y="-2.2021205"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Loyalty" label="Loyalty">
@@ -1388,7 +1388,7 @@
           <attvalue for="id_copy" value="Loyalty"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-269.63297" y="173.54578"></viz:position>
+        <viz:position x="-190.45238" y="122.49474"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Advertising" label="Advertising">
@@ -1404,7 +1404,7 @@
           <attvalue for="id_copy" value="Advertising"></attvalue>
         </attvalues>
         <viz:size value="1.6679137"></viz:size>
-        <viz:position x="285.7655" y="128.82002"></viz:position>
+        <viz:position x="202.25906" y="91.52504"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Amazon Mobile App" label="Amazon Mobile App">
@@ -1420,7 +1420,7 @@
           <attvalue for="id_copy" value="Amazon Mobile App"></attvalue>
         </attvalues>
         <viz:size value="4.6794934"></viz:size>
-        <viz:position x="270.27707" y="-91.7145"></viz:position>
+        <viz:position x="191.38947" y="-64.733345"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="GamesRadar" label="GamesRadar">
@@ -1436,7 +1436,7 @@
           <attvalue for="id_copy" value="GamesRadar"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="50.638554" y="119.304825"></viz:position>
+        <viz:position x="36.05425" y="84.51862"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Newseum NewsMania" label="Newseum NewsMania">
@@ -1452,7 +1452,7 @@
           <attvalue for="id_copy" value="Newseum NewsMania"></attvalue>
         </attvalues>
         <viz:size value="1.5583632"></viz:size>
-        <viz:position x="168.59132" y="-296.15683"></viz:position>
+        <viz:position x="119.456894" y="-209.37097"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="World of Tanks Unofficial" label="World of Tanks Unofficial">
@@ -1468,7 +1468,7 @@
           <attvalue for="id_copy" value="World of Tanks Unofficial"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-274.22305" y="-309.31247"></viz:position>
+        <viz:position x="-193.74774" y="-218.71771"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="XfccBasic" label="XfccBasic">
@@ -1484,7 +1484,7 @@
           <attvalue for="id_copy" value="XfccBasic"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-227.02019" y="4.4329767"></viz:position>
+        <viz:position x="-161.01683" y="1.8941085"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Monitoring" label="Monitoring">
@@ -1500,7 +1500,7 @@
           <attvalue for="id_copy" value="Monitoring"></attvalue>
         </attvalues>
         <viz:size value="1.6518226"></viz:size>
-        <viz:position x="321.77386" y="227.25102"></viz:position>
+        <viz:position x="227.604" y="160.90984"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Software-as-a-Service" label="Software-as-a-Service">
@@ -1516,7 +1516,7 @@
           <attvalue for="id_copy" value="Software-as-a-Service"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-201.66473" y="-303.4697"></viz:position>
+        <viz:position x="-142.30675" y="-214.84436"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Steam Web" label="Steam Web">
@@ -1532,7 +1532,7 @@
           <attvalue for="id_copy" value="Steam Web"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-31.33474" y="46.31052"></viz:position>
+        <viz:position x="-21.41513" y="32.688076"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Mochi Media Flash Games" label="Mochi Media Flash Games">
@@ -1548,7 +1548,7 @@
           <attvalue for="id_copy" value="Mochi Media Flash Games"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-43.768654" y="-13.516275"></viz:position>
+        <viz:position x="-32.092575" y="-10.809497"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Minecraft Server" label="Minecraft Server">
@@ -1564,7 +1564,7 @@
           <attvalue for="id_copy" value="Minecraft Server"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="38.972073" y="293.55872"></viz:position>
+        <viz:position x="27.369076" y="207.57509"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Wurstmineberg" label="Wurstmineberg">
@@ -1580,7 +1580,7 @@
           <attvalue for="id_copy" value="Wurstmineberg"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-60.28552" y="6.6008058"></viz:position>
+        <viz:position x="-43.053005" y="5.8048167"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="BukGet" label="BukGet">
@@ -1596,7 +1596,7 @@
           <attvalue for="id_copy" value="BukGet"></attvalue>
         </attvalues>
         <viz:size value="2.0958776"></viz:size>
-        <viz:position x="-52.663918" y="-233.04958"></viz:position>
+        <viz:position x="-36.72049" y="-164.2464"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Virtualization" label="Virtualization">
@@ -1612,7 +1612,7 @@
           <attvalue for="id_copy" value="Virtualization"></attvalue>
         </attvalues>
         <viz:size value="3.2143245"></viz:size>
-        <viz:position x="114.29912" y="215.5992"></viz:position>
+        <viz:position x="80.140854" y="152.89091"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Military" label="Military">
@@ -1628,7 +1628,7 @@
           <attvalue for="id_copy" value="Military"></attvalue>
         </attvalues>
         <viz:size value="1.003019"></viz:size>
-        <viz:position x="-277.39087" y="-316.8476"></viz:position>
+        <viz:position x="-195.98628" y="-224.04593"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="XboxSDK" label="XboxSDK">
@@ -1644,7 +1644,7 @@
           <attvalue for="id_copy" value="XboxSDK"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-242.8417" y="65.667915"></viz:position>
+        <viz:position x="-171.91046" y="47.49151"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Profiles" label="Profiles">
@@ -1660,7 +1660,7 @@
           <attvalue for="id_copy" value="Profiles"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-13.557833" y="361.67175"></viz:position>
+        <viz:position x="-9.8684435" y="255.7607"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="ShepHertz App42 Cloud Gaming" label="ShepHertz App42 Cloud Gaming">
@@ -1676,7 +1676,7 @@
           <attvalue for="id_copy" value="ShepHertz App42 Cloud Gaming"></attvalue>
         </attvalues>
         <viz:size value="1.0186101"></viz:size>
-        <viz:position x="456.43906" y="-52.80716"></viz:position>
+        <viz:position x="322.89117" y="-37.80015"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Feeds" label="Feeds">
@@ -1692,7 +1692,7 @@
           <attvalue for="id_copy" value="Feeds"></attvalue>
         </attvalues>
         <viz:size value="1.6844554"></viz:size>
-        <viz:position x="60.4967" y="-116.74007"></viz:position>
+        <viz:position x="43.287086" y="-82.48644"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="360voice" label="360voice">
@@ -1708,7 +1708,7 @@
           <attvalue for="id_copy" value="360voice"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-224.29805" y="31.976973"></viz:position>
+        <viz:position x="-158.52933" y="24.481253"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Open Game" label="Open Game">
@@ -1724,7 +1724,7 @@
           <attvalue for="id_copy" value="Open Game"></attvalue>
         </attvalues>
         <viz:size value="1.3930418"></viz:size>
-        <viz:position x="-17.699493" y="-45.78129"></viz:position>
+        <viz:position x="-12.1126995" y="-32.07077"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="World of Tanks Clan" label="World of Tanks Clan">
@@ -1740,7 +1740,7 @@
           <attvalue for="id_copy" value="World of Tanks Clan"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-30.136675" y="69.68618"></viz:position>
+        <viz:position x="-21.25573" y="49.064655"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Heroes of Newerth Statistics" label="Heroes of Newerth Statistics">
@@ -1756,7 +1756,7 @@
           <attvalue for="id_copy" value="Heroes of Newerth Statistics"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-172.69836" y="34.876053"></viz:position>
+        <viz:position x="-127.23924" y="20.007885"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="OneWinner.Me" label="OneWinner.Me">
@@ -1772,7 +1772,7 @@
           <attvalue for="id_copy" value="OneWinner.Me"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-140.76494" y="-202.91579"></viz:position>
+        <viz:position x="-99.38355" y="-143.90048"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="SharkScope" label="SharkScope">
@@ -1788,7 +1788,7 @@
           <attvalue for="id_copy" value="SharkScope"></attvalue>
         </attvalues>
         <viz:size value="1.7374897"></viz:size>
-        <viz:position x="-69.937126" y="-163.40689"></viz:position>
+        <viz:position x="-49.158913" y="-115.57231"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Habbo" label="Habbo">
@@ -1804,7 +1804,7 @@
           <attvalue for="id_copy" value="Habbo"></attvalue>
         </attvalues>
         <viz:size value="3.3952122"></viz:size>
-        <viz:position x="-199.47658" y="375.02734"></viz:position>
+        <viz:position x="-141.3917" y="264.94653"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="LottoCaptcha" label="LottoCaptcha">
@@ -1820,7 +1820,7 @@
           <attvalue for="id_copy" value="LottoCaptcha"></attvalue>
         </attvalues>
         <viz:size value="1.7374897"></viz:size>
-        <viz:position x="-70.60029" y="-156.94287"></viz:position>
+        <viz:position x="-49.271896" y="-110.979996"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Augmented Reality" label="Augmented Reality">
@@ -1836,7 +1836,7 @@
           <attvalue for="id_copy" value="Augmented Reality"></attvalue>
         </attvalues>
         <viz:size value="1.0172004"></viz:size>
-        <viz:position x="102.9238" y="156.64526"></viz:position>
+        <viz:position x="72.29234" y="111.186905"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Networking" label="Networking">
@@ -1852,7 +1852,7 @@
           <attvalue for="id_copy" value="Networking"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-322.27603" y="-251.16985"></viz:position>
+        <viz:position x="-227.81209" y="-177.79088"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Prices" label="Prices">
@@ -1868,7 +1868,7 @@
           <attvalue for="id_copy" value="Prices"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-383.16364" y="115.32625"></viz:position>
+        <viz:position x="-268.96988" y="81.20192"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="VoIP" label="VoIP">
@@ -1884,7 +1884,7 @@
           <attvalue for="id_copy" value="VoIP"></attvalue>
         </attvalues>
         <viz:size value="1.0524851"></viz:size>
-        <viz:position x="-260.0819" y="356.66794"></viz:position>
+        <viz:position x="-184.1453" y="251.90717"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="HTML5" label="HTML5">
@@ -1900,7 +1900,7 @@
           <attvalue for="id_copy" value="HTML5"></attvalue>
         </attvalues>
         <viz:size value="1.0431327"></viz:size>
-        <viz:position x="17.120922" y="171.5994"></viz:position>
+        <viz:position x="12.249836" y="121.48148"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Wazap!" label="Wazap!">
@@ -1916,7 +1916,7 @@
           <attvalue for="id_copy" value="Wazap!"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="182.74446" y="306.74356"></viz:position>
+        <viz:position x="129.0325" y="217.2259"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Second Life Grid Survey" label="Second Life Grid Survey">
@@ -1932,7 +1932,7 @@
           <attvalue for="id_copy" value="Second Life Grid Survey"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="233.37747" y="274.7118"></viz:position>
+        <viz:position x="164.91231" y="194.51764"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="WallaBee" label="WallaBee">
@@ -1948,7 +1948,7 @@
           <attvalue for="id_copy" value="WallaBee"></attvalue>
         </attvalues>
         <viz:size value="3.3906503"></viz:size>
-        <viz:position x="209.30946" y="-105.36727"></viz:position>
+        <viz:position x="148.2731" y="-74.208725"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Mythic Spoiler" label="Mythic Spoiler">
@@ -1964,7 +1964,7 @@
           <attvalue for="id_copy" value="Mythic Spoiler"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-24.330551" y="58.00913"></viz:position>
+        <viz:position x="-16.927664" y="41.256344"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Real Time" label="Real Time">
@@ -1980,7 +1980,7 @@
           <attvalue for="id_copy" value="Real Time"></attvalue>
         </attvalues>
         <viz:size value="1.1518983"></viz:size>
-        <viz:position x="196.58707" y="92.67177"></viz:position>
+        <viz:position x="139.10071" y="65.76497"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Glitch" label="Glitch">
@@ -1996,7 +1996,7 @@
           <attvalue for="id_copy" value="Glitch"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-73.62094" y="6.4612646"></viz:position>
+        <viz:position x="-52.341602" y="5.6447744"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Redbox" label="Redbox">
@@ -2012,7 +2012,7 @@
           <attvalue for="id_copy" value="Redbox"></attvalue>
         </attvalues>
         <viz:size value="1.0747833"></viz:size>
-        <viz:position x="51.703693" y="-80.1419"></viz:position>
+        <viz:position x="37.370533" y="-56.210728"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="LegendCoins" label="LegendCoins">
@@ -2028,7 +2028,7 @@
           <attvalue for="id_copy" value="LegendCoins"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-324.49896" y="-150.67564"></viz:position>
+        <viz:position x="-229.017" y="-107.40077"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Red Frog Freight" label="Red Frog Freight">
@@ -2044,7 +2044,7 @@
           <attvalue for="id_copy" value="Red Frog Freight"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-16.05637" y="47.32342"></viz:position>
+        <viz:position x="-10.993258" y="33.61682"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Localization" label="Localization">
@@ -2060,7 +2060,7 @@
           <attvalue for="id_copy" value="Localization"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-281.8105" y="-14.329434"></viz:position>
+        <viz:position x="-200.68854" y="-9.461842"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Plugins" label="Plugins">
@@ -2076,7 +2076,7 @@
           <attvalue for="id_copy" value="Plugins"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-67.760086" y="-258.46936"></viz:position>
+        <viz:position x="-47.32359" y="-182.2394"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Playtomic Data Exporting" label="Playtomic Data Exporting">
@@ -2092,7 +2092,7 @@
           <attvalue for="id_copy" value="Playtomic Data Exporting"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="245.3109" y="279.79123"></viz:position>
+        <viz:position x="173.36427" y="198.06609"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Location" label="Location">
@@ -2108,7 +2108,7 @@
           <attvalue for="id_copy" value="Location"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-322.5499" y="-259.00333"></viz:position>
+        <viz:position x="-227.99979" y="-183.32848"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Google Play Game Services Publishing" label="Google Play Game Services Publishing">
@@ -2124,7 +2124,7 @@
           <attvalue for="id_copy" value="Google Play Game Services Publishing"></attvalue>
         </attvalues>
         <viz:size value="3.060617"></viz:size>
-        <viz:position x="-57.86082" y="72.497925"></viz:position>
+        <viz:position x="-40.222416" y="51.71164"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Teak" label="Teak">
@@ -2140,7 +2140,7 @@
           <attvalue for="id_copy" value="Teak"></attvalue>
         </attvalues>
         <viz:size value="1.4804"></viz:size>
-        <viz:position x="-267.41608" y="280.6413"></viz:position>
+        <viz:position x="-189.19914" y="198.1023"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="EVE Online CREST Carbon RESTful" label="EVE Online CREST Carbon RESTful">
@@ -2156,7 +2156,7 @@
           <attvalue for="id_copy" value="EVE Online CREST Carbon RESTful"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-44.66655" y="-37.654537"></viz:position>
+        <viz:position x="-31.305565" y="-26.921246"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Roll the Dice" label="Roll the Dice">
@@ -2172,7 +2172,7 @@
           <attvalue for="id_copy" value="Roll the Dice"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="274.40817" y="-175.68362"></viz:position>
+        <viz:position x="194.16264" y="-124.34202"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Dolby Audio" label="Dolby Audio">
@@ -2188,7 +2188,7 @@
           <attvalue for="id_copy" value="Dolby Audio"></attvalue>
         </attvalues>
         <viz:size value="4.147808"></viz:size>
-        <viz:position x="139.10307" y="40.436203"></viz:position>
+        <viz:position x="98.77794" y="29.101183"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Backend-as-a-Service" label="Backend-as-a-Service">
@@ -2204,7 +2204,7 @@
           <attvalue for="id_copy" value="Backend-as-a-Service"></attvalue>
         </attvalues>
         <viz:size value="1.9778552"></viz:size>
-        <viz:position x="165.89986" y="119.35104"></viz:position>
+        <viz:position x="117.631424" y="84.43901"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Wargaming.net Public" label="Wargaming.net Public">
@@ -2220,7 +2220,7 @@
           <attvalue for="id_copy" value="Wargaming.net Public"></attvalue>
         </attvalues>
         <viz:size value="2.179245"></viz:size>
-        <viz:position x="21.187231" y="-402.48886"></viz:position>
+        <viz:position x="14.980196" y="-284.4055"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Azukki" label="Azukki">
@@ -2236,7 +2236,7 @@
           <attvalue for="id_copy" value="Azukki"></attvalue>
         </attvalues>
         <viz:size value="1.3454273"></viz:size>
-        <viz:position x="261.69315" y="-0.28971228"></viz:position>
+        <viz:position x="185.44872" y="-0.19012564"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Nabaztag" label="Nabaztag">
@@ -2252,7 +2252,7 @@
           <attvalue for="id_copy" value="Nabaztag"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="280.71124" y="-305.89157"></viz:position>
+        <viz:position x="198.11647" y="-216.83786"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="hitbox" label="hitbox">
@@ -2268,7 +2268,7 @@
           <attvalue for="id_copy" value="hitbox"></attvalue>
         </attvalues>
         <viz:size value="2.7711685"></viz:size>
-        <viz:position x="122.44607" y="133.35979"></viz:position>
+        <viz:position x="86.80249" y="94.64337"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Government" label="Government">
@@ -2284,7 +2284,7 @@
           <attvalue for="id_copy" value="Government"></attvalue>
         </attvalues>
         <viz:size value="1.494431"></viz:size>
-        <viz:position x="191.55467" y="-303.48065"></viz:position>
+        <viz:position x="135.64442" y="-214.58473"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Path of Exile" label="Path of Exile">
@@ -2300,7 +2300,7 @@
           <attvalue for="id_copy" value="Path of Exile"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-240.76819" y="22.921522"></viz:position>
+        <viz:position x="-169.41998" y="15.677334"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Design" label="Design">
@@ -2316,7 +2316,7 @@
           <attvalue for="id_copy" value="Design"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-41.689503" y="-127.01961"></viz:position>
+        <viz:position x="-28.588476" y="-89.546135"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="eRepublik" label="eRepublik">
@@ -2332,7 +2332,7 @@
           <attvalue for="id_copy" value="eRepublik"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-39.257473" y="36.16066"></viz:position>
+        <viz:position x="-26.861744" y="24.861706"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Mozilla Canvas" label="Mozilla Canvas">
@@ -2348,7 +2348,7 @@
           <attvalue for="id_copy" value="Mozilla Canvas"></attvalue>
         </attvalues>
         <viz:size value="2.6943517"></viz:size>
-        <viz:position x="144.65295" y="105.81032"></viz:position>
+        <viz:position x="102.15874" y="75.131714"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="TwitchTV" label="TwitchTV">
@@ -2364,7 +2364,7 @@
           <attvalue for="id_copy" value="TwitchTV"></attvalue>
         </attvalues>
         <viz:size value="1.8991923"></viz:size>
-        <viz:position x="34.967693" y="129.66809"></viz:position>
+        <viz:position x="24.943207" y="91.802475"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Weewar" label="Weewar">
@@ -2380,7 +2380,7 @@
           <attvalue for="id_copy" value="Weewar"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-26.194408" y="81.47824"></viz:position>
+        <viz:position x="-17.714283" y="57.14602"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="GamerDNA Helix" label="GamerDNA Helix">
@@ -2396,7 +2396,7 @@
           <attvalue for="id_copy" value="GamerDNA Helix"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-10.811636" y="32.741127"></viz:position>
+        <viz:position x="-8.242099" y="24.903694"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Payments" label="Payments">
@@ -2412,7 +2412,7 @@
           <attvalue for="id_copy" value="Payments"></attvalue>
         </attvalues>
         <viz:size value="3.2374105"></viz:size>
-        <viz:position x="-339.00714" y="38.791546"></viz:position>
+        <viz:position x="-236.96428" y="26.364208"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Quizlet Flashcards" label="Quizlet Flashcards">
@@ -2428,7 +2428,7 @@
           <attvalue for="id_copy" value="Quizlet Flashcards"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="70.258484" y="354.69455"></viz:position>
+        <viz:position x="49.337933" y="250.98927"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Unofficial Xbox" label="Unofficial Xbox">
@@ -2444,7 +2444,7 @@
           <attvalue for="id_copy" value="Unofficial Xbox"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-200.36139" y="-11.876147"></viz:position>
+        <viz:position x="-140.97852" y="-8.043717"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Air Travel" label="Air Travel">
@@ -2460,7 +2460,7 @@
           <attvalue for="id_copy" value="Air Travel"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-263.96826" y="-319.06342"></viz:position>
+        <viz:position x="-186.49672" y="-225.60771"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Yahoo Fantasy Sports" label="Yahoo Fantasy Sports">
@@ -2476,7 +2476,7 @@
           <attvalue for="id_copy" value="Yahoo Fantasy Sports"></attvalue>
         </attvalues>
         <viz:size value="1.084803"></viz:size>
-        <viz:position x="151.3364" y="-361.06686"></viz:position>
+        <viz:position x="106.91076" y="-255.22408"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Halo Profile" label="Halo Profile">
@@ -2492,7 +2492,7 @@
           <attvalue for="id_copy" value="Halo Profile"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-7.002042" y="359.31967"></viz:position>
+        <viz:position x="-5.2388506" y="254.11102"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Big Data" label="Big Data">
@@ -2508,7 +2508,7 @@
           <attvalue for="id_copy" value="Big Data"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="242.37076" y="188.33382"></viz:position>
+        <viz:position x="171.42444" y="133.52533"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Mozilla Gamepad" label="Mozilla Gamepad">
@@ -2524,7 +2524,7 @@
           <attvalue for="id_copy" value="Mozilla Gamepad"></attvalue>
         </attvalues>
         <viz:size value="1.3097494"></viz:size>
-        <viz:position x="190.12299" y="-187.21512"></viz:position>
+        <viz:position x="134.76059" y="-132.36578"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Viewer" label="Viewer">
@@ -2540,7 +2540,7 @@
           <attvalue for="id_copy" value="Viewer"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="67.65816" y="175.1822"></viz:position>
+        <viz:position x="47.365482" y="124.18562"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Notifications" label="Notifications">
@@ -2556,7 +2556,7 @@
           <attvalue for="id_copy" value="Notifications"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-142.1426" y="344.56192"></viz:position>
+        <viz:position x="-100.71663" y="243.655"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Random" label="Random">
@@ -2572,7 +2572,7 @@
           <attvalue for="id_copy" value="Random"></attvalue>
         </attvalues>
         <viz:size value="1.0742929"></viz:size>
-        <viz:position x="176.04355" y="-205.22537"></viz:position>
+        <viz:position x="124.56059" y="-145.29814"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Spellodrome" label="Spellodrome">
@@ -2588,7 +2588,7 @@
           <attvalue for="id_copy" value="Spellodrome"></attvalue>
         </attvalues>
         <viz:size value="2.0958776"></viz:size>
-        <viz:position x="84.01811" y="388.82196"></viz:position>
+        <viz:position x="59.014538" y="275.13177"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Movies" label="Movies">
@@ -2604,7 +2604,7 @@
           <attvalue for="id_copy" value="Movies"></attvalue>
         </attvalues>
         <viz:size value="1.2152896"></viz:size>
-        <viz:position x="88.742096" y="-38.094154"></viz:position>
+        <viz:position x="63.44156" y="-26.415232"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Riot Games" label="Riot Games">
@@ -2620,7 +2620,7 @@
           <attvalue for="id_copy" value="Riot Games"></attvalue>
         </attvalues>
         <viz:size value="2.8117428"></viz:size>
-        <viz:position x="37.509136" y="-240.30956"></viz:position>
+        <viz:position x="26.994474" y="-169.63338"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Fantasy Sports" label="Fantasy Sports">
@@ -2636,7 +2636,7 @@
           <attvalue for="id_copy" value="Fantasy Sports"></attvalue>
         </attvalues>
         <viz:size value="1.052924"></viz:size>
-        <viz:position x="160.63356" y="-361.63828"></viz:position>
+        <viz:position x="113.453064" y="-255.6319"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Personal Information Management" label="Personal Information Management">
@@ -2652,7 +2652,7 @@
           <attvalue for="id_copy" value="Personal Information Management"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-232.49716" y="-233.05103"></viz:position>
+        <viz:position x="-164.36028" y="-164.8564"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Kongregate" label="Kongregate">
@@ -2668,7 +2668,7 @@
           <attvalue for="id_copy" value="Kongregate"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-190.10933" y="69.26282"></viz:position>
+        <viz:position x="-132.91663" y="48.46156"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="PlayFab" label="PlayFab">
@@ -2684,7 +2684,7 @@
           <attvalue for="id_copy" value="PlayFab"></attvalue>
         </attvalues>
         <viz:size value="2.9684708"></viz:size>
-        <viz:position x="158.08669" y="19.146027"></viz:position>
+        <viz:position x="112.277" y="13.780703"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Planets Nu" label="Planets Nu">
@@ -2700,7 +2700,7 @@
           <attvalue for="id_copy" value="Planets Nu"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-76.20422" y="-33.31235"></viz:position>
+        <viz:position x="-55.267796" y="-25.84491"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="TV" label="TV">
@@ -2716,7 +2716,7 @@
           <attvalue for="id_copy" value="TV"></attvalue>
         </attvalues>
         <viz:size value="1.0269898"></viz:size>
-        <viz:position x="77.28265" y="10.792655"></viz:position>
+        <viz:position x="55.224636" y="8.21688"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Phoenix Minecraft" label="Phoenix Minecraft">
@@ -2732,7 +2732,7 @@
           <attvalue for="id_copy" value="Phoenix Minecraft"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-71.11872" y="-19.371475"></viz:position>
+        <viz:position x="-50.937866" y="-13.395451"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Magic: The Gathering" label="Magic: The Gathering">
@@ -2748,7 +2748,7 @@
           <attvalue for="id_copy" value="Magic: The Gathering"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-81.998665" y="-49.000614"></viz:position>
+        <viz:position x="-58.01965" y="-36.6778"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Canadian" label="Canadian">
@@ -2764,7 +2764,7 @@
           <attvalue for="id_copy" value="Canadian"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-30.543919" y="261.4702"></viz:position>
+        <viz:position x="-21.711685" y="184.98738"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="The Archive" label="The Archive">
@@ -2780,7 +2780,7 @@
           <attvalue for="id_copy" value="The Archive"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-40.62887" y="-192.49655"></viz:position>
+        <viz:position x="-28.345947" y="-135.59575"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Video" label="Video">
@@ -2796,7 +2796,7 @@
           <attvalue for="id_copy" value="Video"></attvalue>
         </attvalues>
         <viz:size value="12.561695"></viz:size>
-        <viz:position x="51.32859" y="106.19668"></viz:position>
+        <viz:position x="36.551163" y="75.26809"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="FalconLog" label="FalconLog">
@@ -2812,7 +2812,7 @@
           <attvalue for="id_copy" value="FalconLog"></attvalue>
         </attvalues>
         <viz:size value="1.003019"></viz:size>
-        <viz:position x="-270.87137" y="-323.12766"></viz:position>
+        <viz:position x="-191.376" y="-228.48404"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Developers" label="Developers">
@@ -2828,7 +2828,7 @@
           <attvalue for="id_copy" value="Developers"></attvalue>
         </attvalues>
         <viz:size value="1.3690906"></viz:size>
-        <viz:position x="370.67056" y="-112.2015"></viz:position>
+        <viz:position x="262.22797" y="-79.68235"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Blackjack" label="Blackjack">
@@ -2844,7 +2844,7 @@
           <attvalue for="id_copy" value="Blackjack"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-136.45187" y="-187.55019"></viz:position>
+        <viz:position x="-96.30956" y="-133.03078"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Aligulac Statistics" label="Aligulac Statistics">
@@ -2860,7 +2860,7 @@
           <attvalue for="id_copy" value="Aligulac Statistics"></attvalue>
         </attvalues>
         <viz:size value="2.8640146"></viz:size>
-        <viz:position x="66.852325" y="-287.3029"></viz:position>
+        <viz:position x="47.30004" y="-202.99518"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Statistics" label="Statistics">
@@ -2876,7 +2876,7 @@
           <attvalue for="id_copy" value="Statistics"></attvalue>
         </attvalues>
         <viz:size value="7.7752433"></viz:size>
-        <viz:position x="74.42618" y="-346.32764"></viz:position>
+        <viz:position x="52.73455" y="-244.6773"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Drawing" label="Drawing">
@@ -2892,7 +2892,7 @@
           <attvalue for="id_copy" value="Drawing"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="110.516975" y="305.78635"></viz:position>
+        <viz:position x="77.70979" y="216.43759"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Block Chain Roulette" label="Block Chain Roulette">
@@ -2908,7 +2908,7 @@
           <attvalue for="id_copy" value="Block Chain Roulette"></attvalue>
         </attvalues>
         <viz:size value="1.1847343"></viz:size>
-        <viz:position x="-255.95905" y="-157.52338"></viz:position>
+        <viz:position x="-181.5372" y="-112.46928"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="EveryMatrix OddsMatrix" label="EveryMatrix OddsMatrix">
@@ -2924,7 +2924,7 @@
           <attvalue for="id_copy" value="EveryMatrix OddsMatrix"></attvalue>
         </attvalues>
         <viz:size value="1.6093082"></viz:size>
-        <viz:position x="-87.96179" y="-107.19587"></viz:position>
+        <viz:position x="-61.7518" y="-75.978714"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="A3 Ultimate" label="A3 Ultimate">
@@ -2940,7 +2940,7 @@
           <attvalue for="id_copy" value="A3 Ultimate"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-65.05028" y="31.232414"></viz:position>
+        <viz:position x="-45.341484" y="22.993073"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Other" label="Other">
@@ -2956,7 +2956,7 @@
           <attvalue for="id_copy" value="Other"></attvalue>
         </attvalues>
         <viz:size value="1.3355325"></viz:size>
-        <viz:position x="-216.10693" y="102.97744"></viz:position>
+        <viz:position x="-151.96849" y="72.4905"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Photos" label="Photos">
@@ -2972,7 +2972,7 @@
           <attvalue for="id_copy" value="Photos"></attvalue>
         </attvalues>
         <viz:size value="1.1746964"></viz:size>
-        <viz:position x="-114.1444" y="-50.005398"></viz:position>
+        <viz:position x="-80.48405" y="-35.184753"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Graphics" label="Graphics">
@@ -2988,7 +2988,7 @@
           <attvalue for="id_copy" value="Graphics"></attvalue>
         </attvalues>
         <viz:size value="1.4653434"></viz:size>
-        <viz:position x="126.68053" y="-31.544712"></viz:position>
+        <viz:position x="89.08575" y="-21.949055"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Messaging" label="Messaging">
@@ -3004,7 +3004,7 @@
           <attvalue for="id_copy" value="Messaging"></attvalue>
         </attvalues>
         <viz:size value="1.5251887"></viz:size>
-        <viz:position x="-137.11934" y="324.8828"></viz:position>
+        <viz:position x="-97.09988" y="229.73671"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Google Play Game Services" label="Google Play Game Services">
@@ -3020,7 +3020,7 @@
           <attvalue for="id_copy" value="Google Play Game Services"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="213.22122" y="-16.184284"></viz:position>
+        <viz:position x="151.1396" y="-11.041783"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Urbien" label="Urbien">
@@ -3036,7 +3036,7 @@
           <attvalue for="id_copy" value="Urbien"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-348.6971" y="218.246"></viz:position>
+        <viz:position x="-246.62546" y="153.88074"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Math" label="Math">
@@ -3052,7 +3052,7 @@
           <attvalue for="id_copy" value="Math"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="58.353397" y="375.50793"></viz:position>
+        <viz:position x="40.878307" y="265.67404"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Fitness" label="Fitness">
@@ -3068,7 +3068,7 @@
           <attvalue for="id_copy" value="Fitness"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-230.10896" y="151.1813"></viz:position>
+        <viz:position x="-162.52808" y="106.733475"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Apple SpriteKit" label="Apple SpriteKit">
@@ -3084,7 +3084,7 @@
           <attvalue for="id_copy" value="Apple SpriteKit"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="419.6201" y="11.619038"></viz:position>
+        <viz:position x="296.88733" y="7.816925"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Heatmaps.tf" label="Heatmaps.tf">
@@ -3100,7 +3100,7 @@
           <attvalue for="id_copy" value="Heatmaps.tf"></attvalue>
         </attvalues>
         <viz:size value="4.113656"></viz:size>
-        <viz:position x="147.55617" y="-171.11366"></viz:position>
+        <viz:position x="104.66579" y="-120.57168"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Visualizations" label="Visualizations">
@@ -3116,7 +3116,7 @@
           <attvalue for="id_copy" value="Visualizations"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="159.71509" y="-161.60248"></viz:position>
+        <viz:position x="113.27938" y="-113.86291"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Kamcord" label="Kamcord">
@@ -3132,7 +3132,7 @@
           <attvalue for="id_copy" value="Kamcord"></attvalue>
         </attvalues>
         <viz:size value="2.7411942"></viz:size>
-        <viz:position x="117.128006" y="-12.978509"></viz:position>
+        <viz:position x="83.341034" y="-8.560041"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Z33K Tournament API" label="Z33K Tournament API">
@@ -3148,7 +3148,7 @@
           <attvalue for="id_copy" value="Z33K Tournament API"></attvalue>
         </attvalues>
         <viz:size value="1.358498"></viz:size>
-        <viz:position x="244.30089" y="84.16038"></viz:position>
+        <viz:position x="173.10252" y="59.70146"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Engagement" label="Engagement">
@@ -3164,7 +3164,7 @@
           <attvalue for="id_copy" value="Engagement"></attvalue>
         </attvalues>
         <viz:size value="2.2766032"></viz:size>
-        <viz:position x="-228.38893" y="132.77376"></viz:position>
+        <viz:position x="-161.08527" y="93.70811"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Internet Game Database" label="Internet Game Database">
@@ -3180,7 +3180,7 @@
           <attvalue for="id_copy" value="Internet Game Database"></attvalue>
         </attvalues>
         <viz:size value="4.7456245"></viz:size>
-        <viz:position x="65.59426" y="-49.898384"></viz:position>
+        <viz:position x="46.67581" y="-34.76825"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Cheeseformice" label="Cheeseformice">
@@ -3196,7 +3196,7 @@
           <attvalue for="id_copy" value="Cheeseformice"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-15.100852" y="75.0099"></viz:position>
+        <viz:position x="-10.403315" y="51.815193"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Roleplayer's Online Dice Roller" label="Roleplayer's Online Dice Roller">
@@ -3212,7 +3212,7 @@
           <attvalue for="id_copy" value="Roleplayer's Online Dice Roller"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="263.15662" y="-170.14223"></viz:position>
+        <viz:position x="186.12434" y="-120.53284"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="RealmEye" label="RealmEye">
@@ -3228,7 +3228,7 @@
           <attvalue for="id_copy" value="RealmEye"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-35.46703" y="-25.017622"></viz:position>
+        <viz:position x="-25.95725" y="-18.757456"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Fight Code" label="Fight Code">
@@ -3244,7 +3244,7 @@
           <attvalue for="id_copy" value="Fight Code"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="275.94696" y="-310.20953"></viz:position>
+        <viz:position x="194.74213" y="-219.88457"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="MusicGraph" label="MusicGraph">
@@ -3260,7 +3260,7 @@
           <attvalue for="id_copy" value="MusicGraph"></attvalue>
         </attvalues>
         <viz:size value="3.606017"></viz:size>
-        <viz:position x="38.549828" y="-66.22399"></viz:position>
+        <viz:position x="27.797007" y="-46.384796"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="B2B" label="B2B">
@@ -3276,7 +3276,7 @@
           <attvalue for="id_copy" value="B2B"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-208.47232" y="-299.2473"></viz:position>
+        <viz:position x="-147.1226" y="-211.87988"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="AORecipeBook" label="AORecipeBook">
@@ -3292,7 +3292,7 @@
           <attvalue for="id_copy" value="AORecipeBook"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-46.741287" y="47.988438"></viz:position>
+        <viz:position x="-32.265083" y="33.545387"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Crysis 3 Stats" label="Crysis 3 Stats">
@@ -3308,7 +3308,7 @@
           <attvalue for="id_copy" value="Crysis 3 Stats"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-55.851334" y="19.79344"></viz:position>
+        <viz:position x="-39.12471" y="14.807324"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="FantasyData NFL" label="FantasyData NFL">
@@ -3324,7 +3324,7 @@
           <attvalue for="id_copy" value="FantasyData NFL"></attvalue>
         </attvalues>
         <viz:size value="1.2241719"></viz:size>
-        <viz:position x="150.25046" y="-378.60605"></viz:position>
+        <viz:position x="106.17011" y="-267.6282"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Oculus" label="Oculus">
@@ -3340,7 +3340,7 @@
           <attvalue for="id_copy" value="Oculus"></attvalue>
         </attvalues>
         <viz:size value="1.3444103"></viz:size>
-        <viz:position x="93.38226" y="114.378624"></viz:position>
+        <viz:position x="65.65995" y="81.35848"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="MineBans" label="MineBans">
@@ -3356,7 +3356,7 @@
           <attvalue for="id_copy" value="MineBans"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="386.4514" y="-148.41937"></viz:position>
+        <viz:position x="273.28073" y="-105.405716"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="ZowPow Toys" label="ZowPow Toys">
@@ -3372,7 +3372,7 @@
           <attvalue for="id_copy" value="ZowPow Toys"></attvalue>
         </attvalues>
         <viz:size value="1.4893707"></viz:size>
-        <viz:position x="107.00417" y="-69.081924"></viz:position>
+        <viz:position x="76.30591" y="-48.511127"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Charts" label="Charts">
@@ -3388,7 +3388,7 @@
           <attvalue for="id_copy" value="Charts"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-388.3817" y="109.85879"></viz:position>
+        <viz:position x="-272.88104" y="77.37883"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Chronicless for the Secret World" label="Chronicless for the Secret World">
@@ -3404,7 +3404,7 @@
           <attvalue for="id_copy" value="Chronicless for the Secret World"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-250.81721" y="44.643517"></viz:position>
+        <viz:position x="-176.82921" y="30.895891"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Steamworks" label="Steamworks">
@@ -3420,7 +3420,7 @@
           <attvalue for="id_copy" value="Steamworks"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-59.407307" y="45.77005"></viz:position>
+        <viz:position x="-41.255157" y="33.04193"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Zeevex Game Wallet" label="Zeevex Game Wallet">
@@ -3436,7 +3436,7 @@
           <attvalue for="id_copy" value="Zeevex Game Wallet"></attvalue>
         </attvalues>
         <viz:size value="3.1194587"></viz:size>
-        <viz:position x="-350.02695" y="102.24126"></viz:position>
+        <viz:position x="-248.47931" y="71.381905"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Animation" label="Animation">
@@ -3452,7 +3452,7 @@
           <attvalue for="id_copy" value="Animation"></attvalue>
         </attvalues>
         <viz:size value="1.9125124"></viz:size>
-        <viz:position x="129.19347" y="216.61887"></viz:position>
+        <viz:position x="90.87814" y="153.4741"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Internet of Things" label="Internet of Things">
@@ -3468,7 +3468,7 @@
           <attvalue for="id_copy" value="Internet of Things"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="338.3334" y="10.876294"></viz:position>
+        <viz:position x="239.59187" y="7.3878274"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="BigDoor" label="BigDoor">
@@ -3484,7 +3484,7 @@
           <attvalue for="id_copy" value="BigDoor"></attvalue>
         </attvalues>
         <viz:size value="1.3272042"></viz:size>
-        <viz:position x="-267.03635" y="101.23569"></viz:position>
+        <viz:position x="-187.76001" y="71.13194"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="OpenKit" label="OpenKit">
@@ -3500,7 +3500,7 @@
           <attvalue for="id_copy" value="OpenKit"></attvalue>
         </attvalues>
         <viz:size value="1.0319817"></viz:size>
-        <viz:position x="227.05188" y="93.54488"></viz:position>
+        <viz:position x="160.97766" y="65.883705"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Scratch" label="Scratch">
@@ -3516,7 +3516,7 @@
           <attvalue for="id_copy" value="Scratch"></attvalue>
         </attvalues>
         <viz:size value="2.4900947"></viz:size>
-        <viz:position x="116.09092" y="308.38528"></viz:position>
+        <viz:position x="81.64309" y="218.28572"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="TF2 Backpack Explorer" label="TF2 Backpack Explorer">
@@ -3532,7 +3532,7 @@
           <attvalue for="id_copy" value="TF2 Backpack Explorer"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-79.873085" y="31.429544"></viz:position>
+        <viz:position x="-56.032356" y="23.102793"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Athletable" label="Athletable">
@@ -3548,7 +3548,7 @@
           <attvalue for="id_copy" value="Athletable"></attvalue>
         </attvalues>
         <viz:size value="3.1727495"></viz:size>
-        <viz:position x="-65.147575" y="-395.61514"></viz:position>
+        <viz:position x="-46.097015" y="-279.52097"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="XboxLeaders" label="XboxLeaders">
@@ -3564,7 +3564,7 @@
           <attvalue for="id_copy" value="XboxLeaders"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-228.99411" y="49.951515"></viz:position>
+        <viz:position x="-162.38422" y="36.60012"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Voice" label="Voice">
@@ -3580,7 +3580,7 @@
           <attvalue for="id_copy" value="Voice"></attvalue>
         </attvalues>
         <viz:size value="1.7522283"></viz:size>
-        <viz:position x="-197.69211" y="272.3772"></viz:position>
+        <viz:position x="-139.68568" y="192.37634"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Mathletics Hall of Fame" label="Mathletics Hall of Fame">
@@ -3596,7 +3596,7 @@
           <attvalue for="id_copy" value="Mathletics Hall of Fame"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="64.67827" y="377.2896"></viz:position>
+        <viz:position x="45.350628" y="266.9481"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Bitcoin" label="Bitcoin">
@@ -3612,7 +3612,7 @@
           <attvalue for="id_copy" value="Bitcoin"></attvalue>
         </attvalues>
         <viz:size value="2.245164"></viz:size>
-        <viz:position x="-330.49475" y="-147.689"></viz:position>
+        <viz:position x="-233.28983" y="-105.44745"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Art" label="Art">
@@ -3628,7 +3628,7 @@
           <attvalue for="id_copy" value="Art"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="122.32081" y="300.4597"></viz:position>
+        <viz:position x="85.97423" y="212.59457"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="ArcheAge Spy" label="ArcheAge Spy">
@@ -3644,7 +3644,7 @@
           <attvalue for="id_copy" value="ArcheAge Spy"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="315.54367" y="220.60953"></viz:position>
+        <viz:position x="223.18195" y="156.21637"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Apple SceneKit" label="Apple SceneKit">
@@ -3660,7 +3660,7 @@
           <attvalue for="id_copy" value="Apple SceneKit"></attvalue>
         </attvalues>
         <viz:size value="1.1021892"></viz:size>
-        <viz:position x="67.31174" y="35.53411"></viz:position>
+        <viz:position x="47.044533" y="25.586948"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Starcraft II" label="Starcraft II">
@@ -3676,7 +3676,7 @@
           <attvalue for="id_copy" value="Starcraft II"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-81.89511" y="18.99924"></viz:position>
+        <viz:position x="-57.993896" y="14.366336"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="ExileStats" label="ExileStats">
@@ -3692,7 +3692,7 @@
           <attvalue for="id_copy" value="ExileStats"></attvalue>
         </attvalues>
         <viz:size value="1.0833673"></viz:size>
-        <viz:position x="-12.775989" y="-403.82623"></viz:position>
+        <viz:position x="-9.0420265" y="-285.31543"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Publishing" label="Publishing">
@@ -3708,7 +3708,7 @@
           <attvalue for="id_copy" value="Publishing"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-64.44801" y="93.74489"></viz:position>
+        <viz:position x="-44.8089" y="66.82289"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="MumbleBoxes" label="MumbleBoxes">
@@ -3724,7 +3724,7 @@
           <attvalue for="id_copy" value="MumbleBoxes"></attvalue>
         </attvalues>
         <viz:size value="2.3516412"></viz:size>
-        <viz:position x="-258.21777" y="371.8806"></viz:position>
+        <viz:position x="-182.87254" y="262.68127"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="FairLuck" label="FairLuck">
@@ -3740,7 +3740,7 @@
           <attvalue for="id_copy" value="FairLuck"></attvalue>
         </attvalues>
         <viz:size value="2.5718546"></viz:size>
-        <viz:position x="116.88822" y="-203.73291"></viz:position>
+        <viz:position x="82.76468" y="-144.32184"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Betfair Games" label="Betfair Games">
@@ -3756,7 +3756,7 @@
           <attvalue for="id_copy" value="Betfair Games"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-141.58308" y="-193.97105"></viz:position>
+        <viz:position x="-99.95128" y="-137.5652"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Economics" label="Economics">
@@ -3772,7 +3772,7 @@
           <attvalue for="id_copy" value="Economics"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-332.9143" y="-73.85653"></viz:position>
+        <viz:position x="-244.94128" y="-59.999577"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Purchasing" label="Purchasing">
@@ -3788,7 +3788,7 @@
           <attvalue for="id_copy" value="Purchasing"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="280.93066" y="-82.84908"></viz:position>
+        <viz:position x="198.90948" y="-58.48675"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Record Setter URDB" label="Record Setter URDB">
@@ -3804,7 +3804,7 @@
           <attvalue for="id_copy" value="Record Setter URDB"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="150.56284" y="-312.57013"></viz:position>
+        <viz:position x="106.54305" y="-220.853"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Goozex" label="Goozex">
@@ -3820,7 +3820,7 @@
           <attvalue for="id_copy" value="Goozex"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-38.057014" y="57.978424"></viz:position>
+        <viz:position x="-26.814972" y="40.62689"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Mozilla WebVR" label="Mozilla WebVR">
@@ -3836,7 +3836,7 @@
           <attvalue for="id_copy" value="Mozilla WebVR"></attvalue>
         </attvalues>
         <viz:size value="2.0303996"></viz:size>
-        <viz:position x="104.32214" y="181.99982"></viz:position>
+        <viz:position x="73.15935" y="129.10274"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="MineTools" label="MineTools">
@@ -3852,7 +3852,7 @@
           <attvalue for="id_copy" value="MineTools"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-46.04365" y="9.437251"></viz:position>
+        <viz:position x="-33.264767" y="6.669111"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Tap.Me" label="Tap.Me">
@@ -3868,7 +3868,7 @@
           <attvalue for="id_copy" value="Tap.Me"></attvalue>
         </attvalues>
         <viz:size value="1.1451349"></viz:size>
-        <viz:position x="241.87064" y="42.279526"></viz:position>
+        <viz:position x="171.46912" y="30.47302"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="PicoMoney" label="PicoMoney">
@@ -3884,7 +3884,7 @@
           <attvalue for="id_copy" value="PicoMoney"></attvalue>
         </attvalues>
         <viz:size value="1.5955073"></viz:size>
-        <viz:position x="-339.92172" y="-70.5143"></viz:position>
+        <viz:position x="-246.01437" y="-54.58899"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Education" label="Education">
@@ -3900,7 +3900,7 @@
           <attvalue for="id_copy" value="Education"></attvalue>
         </attvalues>
         <viz:size value="7.9636774"></viz:size>
-        <viz:position x="75.126564" y="362.68143"></viz:position>
+        <viz:position x="52.772953" y="256.6437"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Dota 2" label="Dota 2">
@@ -3916,7 +3916,7 @@
           <attvalue for="id_copy" value="Dota 2"></attvalue>
         </attvalues>
         <viz:size value="1.978251"></viz:size>
-        <viz:position x="35.98249" y="-43.578808"></viz:position>
+        <viz:position x="26.041653" y="-30.427586"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="PriceCharting" label="PriceCharting">
@@ -3932,7 +3932,7 @@
           <attvalue for="id_copy" value="PriceCharting"></attvalue>
         </attvalues>
         <viz:size value="2.5533652"></viz:size>
-        <viz:position x="-390.16913" y="117.05019"></viz:position>
+        <viz:position x="-273.8231" y="82.45419"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="AppAware" label="AppAware">
@@ -3948,7 +3948,7 @@
           <attvalue for="id_copy" value="AppAware"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-345.65976" y="139.42146"></viz:position>
+        <viz:position x="-243.53276" y="98.14912"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Forums" label="Forums">
@@ -3964,7 +3964,7 @@
           <attvalue for="id_copy" value="Forums"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-139.5747" y="350.88058"></viz:position>
+        <viz:position x="-98.88287" y="248.12527"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Content Management" label="Content Management">
@@ -3980,7 +3980,7 @@
           <attvalue for="id_copy" value="Content Management"></attvalue>
         </attvalues>
         <viz:size value="1.5401492"></viz:size>
-        <viz:position x="-98.66644" y="221.64792"></viz:position>
+        <viz:position x="-69.465744" y="157.02565"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Modules" label="Modules">
@@ -3996,7 +3996,7 @@
           <attvalue for="id_copy" value="Modules"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="464.50745" y="-29.229254"></viz:position>
+        <viz:position x="328.58926" y="-21.116705"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Gambling" label="Gambling">
@@ -4012,7 +4012,7 @@
           <attvalue for="id_copy" value="Gambling"></attvalue>
         </attvalues>
         <viz:size value="10.078412"></viz:size>
-        <viz:position x="-127.18011" y="-197.3529"></viz:position>
+        <viz:position x="-89.77955" y="-139.97914"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Pastebin" label="Pastebin">
@@ -4028,7 +4028,7 @@
           <attvalue for="id_copy" value="Pastebin"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-60.426476" y="370.84045"></viz:position>
+        <viz:position x="-43.065266" y="262.21582"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Tasks" label="Tasks">
@@ -4044,7 +4044,7 @@
           <attvalue for="id_copy" value="Tasks"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="154.62593" y="264.68982"></viz:position>
+        <viz:position x="103.421074" y="180.71284"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Images" label="Images">
@@ -4060,7 +4060,7 @@
           <attvalue for="id_copy" value="Images"></attvalue>
         </attvalues>
         <viz:size value="1.1060364"></viz:size>
-        <viz:position x="-62.63907" y="-48.236908"></viz:position>
+        <viz:position x="-43.878166" y="-33.88927"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Apple Metal" label="Apple Metal">
@@ -4076,7 +4076,7 @@
           <attvalue for="id_copy" value="Apple Metal"></attvalue>
         </attvalues>
         <viz:size value="1.1043876"></viz:size>
-        <viz:position x="323.19324" y="-145.61464"></viz:position>
+        <viz:position x="228.65747" y="-103.23053"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Referrals" label="Referrals">
@@ -4092,7 +4092,7 @@
           <attvalue for="id_copy" value="Referrals"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-178.6086" y="327.72964"></viz:position>
+        <viz:position x="-126.532135" y="231.57549"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Directories" label="Directories">
@@ -4108,7 +4108,7 @@
           <attvalue for="id_copy" value="Directories"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-59.643993" y="-212.25505"></viz:position>
+        <viz:position x="-42.040104" y="-149.34468"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Rebrickable" label="Rebrickable">
@@ -4124,7 +4124,7 @@
           <attvalue for="id_copy" value="Rebrickable"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-31.580717" y="-126.38319"></viz:position>
+        <viz:position x="-21.437223" y="-89.07478"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="gamerID" label="gamerID">
@@ -4140,7 +4140,7 @@
           <attvalue for="id_copy" value="gamerID"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="403.13666" y="-143.80154"></viz:position>
+        <viz:position x="285.06754" y="-102.13752"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Washington Post NFL Statistics" label="Washington Post NFL Statistics">
@@ -4156,7 +4156,7 @@
           <attvalue for="id_copy" value="Washington Post NFL Statistics"></attvalue>
         </attvalues>
         <viz:size value="1.1804032"></viz:size>
-        <viz:position x="127.15215" y="-311.43768"></viz:position>
+        <viz:position x="90.06833" y="-220.08482"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="WowGuild.co World of Warcraft Spell" label="WowGuild.co World of Warcraft Spell">
@@ -4172,7 +4172,7 @@
           <attvalue for="id_copy" value="WowGuild.co World of Warcraft Spell"></attvalue>
         </attvalues>
         <viz:size value="1.3103335"></viz:size>
-        <viz:position x="12.462323" y="-200.81763"></viz:position>
+        <viz:position x="9.156745" y="-141.49023"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Music" label="Music">
@@ -4188,7 +4188,7 @@
           <attvalue for="id_copy" value="Music"></attvalue>
         </attvalues>
         <viz:size value="3.319995"></viz:size>
-        <viz:position x="165.34242" y="80.14819"></viz:position>
+        <viz:position x="117.26568" y="57.179092"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="##CsC e-Sim" label="##CsC e-Sim">
@@ -4204,7 +4204,7 @@
           <attvalue for="id_copy" value="##CsC e-Sim"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-52.20306" y="33.9579"></viz:position>
+        <viz:position x="-36.127525" y="24.314554"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Language" label="Language">
@@ -4220,7 +4220,7 @@
           <attvalue for="id_copy" value="Language"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="168.65933" y="380.06567"></viz:position>
+        <viz:position x="118.90984" y="269.00497"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="AppLift" label="AppLift">
@@ -4236,7 +4236,7 @@
           <attvalue for="id_copy" value="AppLift"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-185.07303" y="329.52094"></viz:position>
+        <viz:position x="-131.10002" y="232.82431"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Avatars" label="Avatars">
@@ -4252,7 +4252,7 @@
           <attvalue for="id_copy" value="Avatars"></attvalue>
         </attvalues>
         <viz:size value="1.1691983"></viz:size>
-        <viz:position x="-125.39998" y="-34.589863"></viz:position>
+        <viz:position x="-88.88028" y="-24.121647"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="CoolROM" label="CoolROM">
@@ -4268,7 +4268,7 @@
           <attvalue for="id_copy" value="CoolROM"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="0.26364616" y="-105.72527"></viz:position>
+        <viz:position x="1.0037311" y="-74.42438"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="CrazyGames" label="CrazyGames">
@@ -4284,7 +4284,7 @@
           <attvalue for="id_copy" value="CrazyGames"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-11.886494" y="-120.98728"></viz:position>
+        <viz:position x="-7.511876" y="-85.30471"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Obsidian Portal" label="Obsidian Portal">
@@ -4300,7 +4300,7 @@
           <attvalue for="id_copy" value="Obsidian Portal"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="33.348465" y="259.46286"></viz:position>
+        <viz:position x="23.561401" y="183.54129"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="HollyStock Celebrity" label="HollyStock Celebrity">
@@ -4316,7 +4316,7 @@
           <attvalue for="id_copy" value="HollyStock Celebrity"></attvalue>
         </attvalues>
         <viz:size value="5.133295"></viz:size>
-        <viz:position x="1.262853" y="-214.95749"></viz:position>
+        <viz:position x="1.4653686" y="-151.61299"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Tools" label="Tools">
@@ -4332,7 +4332,7 @@
           <attvalue for="id_copy" value="Tools"></attvalue>
         </attvalues>
         <viz:size value="4.9087725"></viz:size>
-        <viz:position x="266.2818" y="-178.01842"></viz:position>
+        <viz:position x="188.4377" y="-126.05592"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Goals" label="Goals">
@@ -4348,7 +4348,7 @@
           <attvalue for="id_copy" value="Goals"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="153.43915" y="255.59827"></viz:position>
+        <viz:position x="105.69164" y="189.12976"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Pokéapi" label="Pokéapi">
@@ -4364,7 +4364,7 @@
           <attvalue for="id_copy" value="Pokéapi"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-11.390383" y="-109.38803"></viz:position>
+        <viz:position x="-7.223953" y="-77.070526"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Roll20" label="Roll20">
@@ -4380,7 +4380,7 @@
           <attvalue for="id_copy" value="Roll20"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-217.74454" y="-14.871241"></viz:position>
+        <viz:position x="-152.9862" y="-11.85485"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Daybreak Game Company Census" label="Daybreak Game Company Census">
@@ -4396,7 +4396,7 @@
           <attvalue for="id_copy" value="Daybreak Game Company Census"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="14.133776" y="-130.41418"></viz:position>
+        <viz:position x="10.861345" y="-91.861626"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Management" label="Management">
@@ -4412,7 +4412,7 @@
           <attvalue for="id_copy" value="Management"></attvalue>
         </attvalues>
         <viz:size value="2.8993263"></viz:size>
-        <viz:position x="276.72342" y="86.69722"></viz:position>
+        <viz:position x="196.0291" y="61.47724"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Streaming" label="Streaming">
@@ -4428,7 +4428,7 @@
           <attvalue for="id_copy" value="Streaming"></attvalue>
         </attvalues>
         <viz:size value="1.2641927"></viz:size>
-        <viz:position x="192.94778" y="148.9772"></viz:position>
+        <viz:position x="136.62575" y="105.737114"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Entertainment" label="Entertainment">
@@ -4444,7 +4444,7 @@
           <attvalue for="id_copy" value="Entertainment"></attvalue>
         </attvalues>
         <viz:size value="29.629805"></viz:size>
-        <viz:position x="4.804442" y="-116.492455"></viz:position>
+        <viz:position x="4.2546563" y="-82.013466"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Business" label="Business">
@@ -4460,7 +4460,7 @@
           <attvalue for="id_copy" value="Business"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-76.49353" y="-310.3884"></viz:position>
+        <viz:position x="-53.642227" y="-219.11806"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Open Data" label="Open Data">
@@ -4476,7 +4476,7 @@
           <attvalue for="id_copy" value="Open Data"></attvalue>
         </attvalues>
         <viz:size value="1.1055512"></viz:size>
-        <viz:position x="51.299366" y="-202.43904"></viz:position>
+        <viz:position x="36.63088" y="-142.64214"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="3D" label="3D">
@@ -4492,7 +4492,7 @@
           <attvalue for="id_copy" value="3D"></attvalue>
         </attvalues>
         <viz:size value="4.81577"></viz:size>
-        <viz:position x="32.96919" y="72.95477"></viz:position>
+        <viz:position x="22.611368" y="52.05314"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Trade.tf" label="Trade.tf">
@@ -4508,7 +4508,7 @@
           <attvalue for="id_copy" value="Trade.tf"></attvalue>
         </attvalues>
         <viz:size value="2.195966"></viz:size>
-        <viz:position x="-377.23532" y="-29.38062"></viz:position>
+        <viz:position x="-256.55627" y="-21.207237"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="GW2Spidy" label="GW2Spidy">
@@ -4524,7 +4524,7 @@
           <attvalue for="id_copy" value="GW2Spidy"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-328.2101" y="226.87976"></viz:position>
+        <viz:position x="-232.09212" y="159.94545"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Cubeia Social" label="Cubeia Social">
@@ -4540,7 +4540,7 @@
           <attvalue for="id_copy" value="Cubeia Social"></attvalue>
         </attvalues>
         <viz:size value="2.8260183"></viz:size>
-        <viz:position x="-199.92213" y="-147.13008"></viz:position>
+        <viz:position x="-141.22662" y="-104.240036"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="itch.io" label="itch.io">
@@ -4556,7 +4556,7 @@
           <attvalue for="id_copy" value="itch.io"></attvalue>
         </attvalues>
         <viz:size value="1.3391721"></viz:size>
-        <viz:position x="-319.53836" y="282.57523"></viz:position>
+        <viz:position x="-226.04892" y="199.38893"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Claude Hussenet Anagram" label="Claude Hussenet Anagram">
@@ -4572,7 +4572,7 @@
           <attvalue for="id_copy" value="Claude Hussenet Anagram"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="355.8668" y="-230.46532"></viz:position>
+        <viz:position x="251.4855" y="-163.47662"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Time Tracking" label="Time Tracking">
@@ -4588,7 +4588,7 @@
           <attvalue for="id_copy" value="Time Tracking"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="152.72832" y="-184.3449"></viz:position>
+        <viz:position x="108.3018" y="-129.92484"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Halo Stats" label="Halo Stats">
@@ -4604,7 +4604,7 @@
           <attvalue for="id_copy" value="Halo Stats"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="38.22097" y="-320.9613"></viz:position>
+        <viz:position x="26.979532" y="-226.85776"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Spil Games" label="Spil Games">
@@ -4620,7 +4620,7 @@
           <attvalue for="id_copy" value="Spil Games"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-285.7291" y="-10.103773"></viz:position>
+        <viz:position x="-203.45412" y="-6.480488"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Internet Video Archive" label="Internet Video Archive">
@@ -4636,7 +4636,7 @@
           <attvalue for="id_copy" value="Internet Video Archive"></attvalue>
         </attvalues>
         <viz:size value="1.3853374"></viz:size>
-        <viz:position x="107.15205" y="21.533014"></viz:position>
+        <viz:position x="76.41605" y="15.767557"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Stocks" label="Stocks">
@@ -4652,7 +4652,7 @@
           <attvalue for="id_copy" value="Stocks"></attvalue>
         </attvalues>
         <viz:size value="1.2784309"></viz:size>
-        <viz:position x="-355.80478" y="-68.88722"></viz:position>
+        <viz:position x="-241.17754" y="-43.717194"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Quisque" label="Quisque">
@@ -4668,7 +4668,7 @@
           <attvalue for="id_copy" value="Quisque"></attvalue>
         </attvalues>
         <viz:size value="1.3560634"></viz:size>
-        <viz:position x="384.84366" y="-195.0773"></viz:position>
+        <viz:position x="272.02832" y="-138.44843"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="MightyCast NEX" label="MightyCast NEX">
@@ -4684,7 +4684,7 @@
           <attvalue for="id_copy" value="MightyCast NEX"></attvalue>
         </attvalues>
         <viz:size value="2.1159973"></viz:size>
-        <viz:position x="472.4626" y="-34.681366"></viz:position>
+        <viz:position x="334.2151" y="-24.980076"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Geocaching" label="Geocaching">
@@ -4700,7 +4700,7 @@
           <attvalue for="id_copy" value="Geocaching"></attvalue>
         </attvalues>
         <viz:size value="2.066218"></viz:size>
-        <viz:position x="176.31885" y="-105.39692"></viz:position>
+        <viz:position x="125.02472" y="-74.29136"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="MtgDB" label="MtgDB">
@@ -4716,7 +4716,7 @@
           <attvalue for="id_copy" value="MtgDB"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-42.28002" y="-184.73868"></viz:position>
+        <viz:position x="-29.49276" y="-130.10063"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Rewards" label="Rewards">
@@ -4732,7 +4732,7 @@
           <attvalue for="id_copy" value="Rewards"></attvalue>
         </attvalues>
         <viz:size value="1.8980385"></viz:size>
-        <viz:position x="-255.57579" y="217.09152"></viz:position>
+        <viz:position x="-180.6127" y="153.26863"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="PlayHaven Reporting" label="PlayHaven Reporting">
@@ -4748,7 +4748,7 @@
           <attvalue for="id_copy" value="PlayHaven Reporting"></attvalue>
         </attvalues>
         <viz:size value="1.856129"></viz:size>
-        <viz:position x="-201.45557" y="290.65643"></viz:position>
+        <viz:position x="-142.57584" y="205.32446"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="eCommerce" label="eCommerce">
@@ -4764,7 +4764,7 @@
           <attvalue for="id_copy" value="eCommerce"></attvalue>
         </attvalues>
         <viz:size value="5.672553"></viz:size>
-        <viz:position x="-335.71976" y="234.10808"></viz:position>
+        <viz:position x="-237.37729" y="165.07532"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Robots" label="Robots">
@@ -4780,7 +4780,7 @@
           <attvalue for="id_copy" value="Robots"></attvalue>
         </attvalues>
         <viz:size value="1.0015094"></viz:size>
-        <viz:position x="282.2928" y="-312.442"></viz:position>
+        <viz:position x="199.22577" y="-221.47337"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Airbana" label="Airbana">
@@ -4796,7 +4796,7 @@
           <attvalue for="id_copy" value="Airbana"></attvalue>
         </attvalues>
         <viz:size value="1.0837222"></viz:size>
-        <viz:position x="-191.95322" y="45.72303"></viz:position>
+        <viz:position x="-134.83199" y="32.213406"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Metadata" label="Metadata">
@@ -4812,7 +4812,7 @@
           <attvalue for="id_copy" value="Metadata"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-91.43622" y="-250.61946"></viz:position>
+        <viz:position x="-64.02991" y="-176.79364"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Reference" label="Reference">
@@ -4828,7 +4828,7 @@
           <attvalue for="id_copy" value="Reference"></attvalue>
         </attvalues>
         <viz:size value="1.7449251"></viz:size>
-        <viz:position x="148.10127" y="-319.6251"></viz:position>
+        <viz:position x="104.81705" y="-225.84044"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Collaboration" label="Collaboration">
@@ -4844,7 +4844,7 @@
           <attvalue for="id_copy" value="Collaboration"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-330.05673" y="-249.56601"></viz:position>
+        <viz:position x="-233.3163" y="-176.65996"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Sapo Games" label="Sapo Games">
@@ -4860,7 +4860,7 @@
           <attvalue for="id_copy" value="Sapo Games"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="71.86747" y="-119.80584"></viz:position>
+        <viz:position x="51.35855" y="-84.60307"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Financial" label="Financial">
@@ -4876,7 +4876,7 @@
           <attvalue for="id_copy" value="Financial"></attvalue>
         </attvalues>
         <viz:size value="4.390335"></viz:size>
-        <viz:position x="-334.9878" y="-5.7718635"></viz:position>
+        <viz:position x="-240.73232" y="-5.0730267"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="FlashGameDistribution" label="FlashGameDistribution">
@@ -4892,7 +4892,7 @@
           <attvalue for="id_copy" value="FlashGameDistribution"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-81.69757" y="-61.747807"></viz:position>
+        <viz:position x="-57.729626" y="-44.728397"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Shivtr" label="Shivtr">
@@ -4908,7 +4908,7 @@
           <attvalue for="id_copy" value="Shivtr"></attvalue>
         </attvalues>
         <viz:size value="1.839692"></viz:size>
-        <viz:position x="-132.34494" y="390.09592"></viz:position>
+        <viz:position x="-93.923935" y="275.86942"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="GoInstant" label="GoInstant">
@@ -4924,7 +4924,7 @@
           <attvalue for="id_copy" value="GoInstant"></attvalue>
         </attvalues>
         <viz:size value="1.3508897"></viz:size>
-        <viz:position x="231.33344" y="67.74899"></viz:position>
+        <viz:position x="163.82701" y="48.03412"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Facebook Credits" label="Facebook Credits">
@@ -4940,7 +4940,7 @@
           <attvalue for="id_copy" value="Facebook Credits"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-320.0065" y="38.64218"></viz:position>
+        <viz:position x="-223.63588" y="24.916069"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Japanese" label="Japanese">
@@ -4956,7 +4956,7 @@
           <attvalue for="id_copy" value="Japanese"></attvalue>
         </attvalues>
         <viz:size value="1.8164637"></viz:size>
-        <viz:position x="182.4504" y="312.31696"></viz:position>
+        <viz:position x="128.85017" y="221.16708"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Overwolf" label="Overwolf">
@@ -4972,7 +4972,7 @@
           <attvalue for="id_copy" value="Overwolf"></attvalue>
         </attvalues>
         <viz:size value="2.8158073"></viz:size>
-        <viz:position x="183.47816" y="20.144348"></viz:position>
+        <viz:position x="130.10036" y="14.652641"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Mobile" label="Mobile">
@@ -4988,7 +4988,7 @@
           <attvalue for="id_copy" value="Mobile"></attvalue>
         </attvalues>
         <viz:size value="10.8255825"></viz:size>
-        <viz:position x="201.20302" y="-13.881042"></viz:position>
+        <viz:position x="142.64804" y="-9.427352"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Humor" label="Humor">
@@ -5004,7 +5004,7 @@
           <attvalue for="id_copy" value="Humor"></attvalue>
         </attvalues>
         <viz:size value="2.5226605"></viz:size>
-        <viz:position x="364.32086" y="-232.77315"></viz:position>
+        <viz:position x="257.46423" y="-165.11713"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="The Game Crafter" label="The Game Crafter">
@@ -5020,7 +5020,7 @@
           <attvalue for="id_copy" value="The Game Crafter"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-64.77599" y="101.56774"></viz:position>
+        <viz:position x="-45.03939" y="72.3635"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Game Jolt" label="Game Jolt">
@@ -5036,7 +5036,7 @@
           <attvalue for="id_copy" value="Game Jolt"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-52.61151" y="-208.624"></viz:position>
+        <viz:position x="-37.004036" y="-146.84052"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Search" label="Search">
@@ -5052,7 +5052,7 @@
           <attvalue for="id_copy" value="Search"></attvalue>
         </attvalues>
         <viz:size value="1.6770631"></viz:size>
-        <viz:position x="103.157524" y="-188.13054"></viz:position>
+        <viz:position x="73.51684" y="-132.81316"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="playMobi" label="playMobi">
@@ -5068,7 +5068,7 @@
           <attvalue for="id_copy" value="playMobi"></attvalue>
         </attvalues>
         <viz:size value="4.460162"></viz:size>
-        <viz:position x="-42.358727" y="211.10254"></viz:position>
+        <viz:position x="-29.855766" y="149.32384"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Geosophic" label="Geosophic">
@@ -5084,7 +5084,7 @@
           <attvalue for="id_copy" value="Geosophic"></attvalue>
         </attvalues>
         <viz:size value="2.0607562"></viz:size>
-        <viz:position x="245.91202" y="223.85394"></viz:position>
+        <viz:position x="173.91812" y="158.59203"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Chess Pastebin" label="Chess Pastebin">
@@ -5100,7 +5100,7 @@
           <attvalue for="id_copy" value="Chess Pastebin"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-65.35727" y="373.60797"></viz:position>
+        <viz:position x="-46.548275" y="264.17508"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Wearable" label="Wearable">
@@ -5116,7 +5116,7 @@
           <attvalue for="id_copy" value="Wearable"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="453.9846" y="-19.950071"></viz:position>
+        <viz:position x="321.14804" y="-14.5404625"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="SmartBots" label="SmartBots">
@@ -5132,7 +5132,7 @@
           <attvalue for="id_copy" value="SmartBots"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-76.69542" y="336.28067"></viz:position>
+        <viz:position x="-54.591595" y="237.76782"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Badges" label="Badges">
@@ -5148,7 +5148,7 @@
           <attvalue for="id_copy" value="Badges"></attvalue>
         </attvalues>
         <viz:size value="1.0702658"></viz:size>
-        <viz:position x="-71.017975" y="239.47337"></viz:position>
+        <viz:position x="-50.138294" y="169.34369"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Merchants" label="Merchants">
@@ -5164,7 +5164,7 @@
           <attvalue for="id_copy" value="Merchants"></attvalue>
         </attvalues>
         <viz:size value="2.8383803"></viz:size>
-        <viz:position x="-378.94394" y="-4.4405437"></viz:position>
+        <viz:position x="-262.5499" y="-3.8298874"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Stormancer" label="Stormancer">
@@ -5180,7 +5180,7 @@
           <attvalue for="id_copy" value="Stormancer"></attvalue>
         </attvalues>
         <viz:size value="1.3643594"></viz:size>
-        <viz:position x="350.25687" y="52.491917"></viz:position>
+        <viz:position x="247.92082" y="37.094086"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Ryzom" label="Ryzom">
@@ -5196,7 +5196,7 @@
           <attvalue for="id_copy" value="Ryzom"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-210.82085" y="74.62636"></viz:position>
+        <viz:position x="-147.81877" y="52.25822"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Minecraft ID List" label="Minecraft ID List">
@@ -5212,7 +5212,7 @@
           <attvalue for="id_copy" value="Minecraft ID List"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="77.07699" y="-146.7599"></viz:position>
+        <viz:position x="55.351147" y="-103.39925"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Reto Loser's Lotto Generator" label="Reto Loser's Lotto Generator">
@@ -5228,7 +5228,7 @@
           <attvalue for="id_copy" value="Reto Loser's Lotto Generator"></attvalue>
         </attvalues>
         <viz:size value="1.8287733"></viz:size>
-        <viz:position x="275.06052" y="-250.73785"></viz:position>
+        <viz:position x="194.33652" y="-177.81342"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Languages" label="Languages">
@@ -5244,7 +5244,7 @@
           <attvalue for="id_copy" value="Languages"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="148.3741" y="357.0635"></viz:position>
+        <viz:position x="104.58363" y="252.72858"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Knetik" label="Knetik">
@@ -5260,7 +5260,7 @@
           <attvalue for="id_copy" value="Knetik"></attvalue>
         </attvalues>
         <viz:size value="3.4807346"></viz:size>
-        <viz:position x="-241.09056" y="251.13603"></viz:position>
+        <viz:position x="-170.45546" y="177.38676"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Time" label="Time">
@@ -5276,7 +5276,7 @@
           <attvalue for="id_copy" value="Time"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="143.59938" y="-156.316"></viz:position>
+        <viz:position x="101.914856" y="-110.09581"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="PlanetSide 2 Census" label="PlanetSide 2 Census">
@@ -5292,7 +5292,7 @@
           <attvalue for="id_copy" value="PlanetSide 2 Census"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-18.244165" y="20.641802"></viz:position>
+        <viz:position x="-11.182555" y="15.062282"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="SWTOR Fan Managed" label="SWTOR Fan Managed">
@@ -5308,7 +5308,7 @@
           <attvalue for="id_copy" value="SWTOR Fan Managed"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-31.833347" y="12.7437105"></viz:position>
+        <viz:position x="-23.574718" y="7.2951756"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Open Source" label="Open Source">
@@ -5324,7 +5324,7 @@
           <attvalue for="id_copy" value="Open Source"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-27.482016" y="289.49948"></viz:position>
+        <viz:position x="-19.444273" y="204.79361"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="German" label="German">
@@ -5340,7 +5340,7 @@
           <attvalue for="id_copy" value="German"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="268.74664" y="-245.00998"></viz:position>
+        <viz:position x="189.85822" y="-173.75673"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Monetization" label="Monetization">
@@ -5356,7 +5356,7 @@
           <attvalue for="id_copy" value="Monetization"></attvalue>
         </attvalues>
         <viz:size value="4.126819"></viz:size>
-        <viz:position x="-209.14296" y="252.98813"></viz:position>
+        <viz:position x="-147.90579" y="178.70761"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Media" label="Media">
@@ -5372,7 +5372,7 @@
           <attvalue for="id_copy" value="Media"></attvalue>
         </attvalues>
         <viz:size value="3.064145"></viz:size>
-        <viz:position x="-148.65152" y="181.04715"></viz:position>
+        <viz:position x="-104.79665" y="127.992516"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Integration" label="Integration">
@@ -5388,7 +5388,7 @@
           <attvalue for="id_copy" value="Integration"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="35.469402" y="294.03387"></viz:position>
+        <viz:position x="24.893839" y="207.9223"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Democracy Game" label="Democracy Game">
@@ -5404,7 +5404,7 @@
           <attvalue for="id_copy" value="Democracy Game"></attvalue>
         </attvalues>
         <viz:size value="2.0289264"></viz:size>
-        <viz:position x="194.8278" y="-295.1714"></viz:position>
+        <viz:position x="137.9659" y="-208.70735"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Auto 3D Avatar WebAPI from the 3D Avatar Store" label="Auto 3D Avatar WebAPI from the 3D Avatar Store">
@@ -5420,7 +5420,7 @@
           <attvalue for="id_copy" value="Auto 3D Avatar WebAPI from the 3D Avatar Store"></attvalue>
         </attvalues>
         <viz:size value="2.672844"></viz:size>
-        <viz:position x="-139.45201" y="-51.968655"></viz:position>
+        <viz:position x="-98.57287" y="-36.526733"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Marketing" label="Marketing">
@@ -5436,7 +5436,7 @@
           <attvalue for="id_copy" value="Marketing"></attvalue>
         </attvalues>
         <viz:size value="2.4613514"></viz:size>
-        <viz:position x="-189.99352" y="316.68927"></viz:position>
+        <viz:position x="-134.52235" y="223.7266"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Play2Shop" label="Play2Shop">
@@ -5452,7 +5452,7 @@
           <attvalue for="id_copy" value="Play2Shop"></attvalue>
         </attvalues>
         <viz:size value="1.3588207"></viz:size>
-        <viz:position x="-288.20596" y="225.36125"></viz:position>
+        <viz:position x="-203.74281" y="159.04234"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Katana Analytics" label="Katana Analytics">
@@ -5468,7 +5468,7 @@
           <attvalue for="id_copy" value="Katana Analytics"></attvalue>
         </attvalues>
         <viz:size value="7.4424715"></viz:size>
-        <viz:position x="244.04037" y="180.98543"></viz:position>
+        <viz:position x="172.70268" y="128.35733"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Battlefield 3 Stats" label="Battlefield 3 Stats">
@@ -5484,7 +5484,7 @@
           <attvalue for="id_copy" value="Battlefield 3 Stats"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="29.523458" y="-344.84442"></viz:position>
+        <viz:position x="20.921383" y="-243.75992"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="GGTracker" label="GGTracker">
@@ -5500,7 +5500,7 @@
           <attvalue for="id_copy" value="GGTracker"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="23.189915" y="21.364193"></viz:position>
+        <viz:position x="15.299765" y="14.615045"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Security" label="Security">
@@ -5516,7 +5516,7 @@
           <attvalue for="id_copy" value="Security"></attvalue>
         </attvalues>
         <viz:size value="3.187227"></viz:size>
-        <viz:position x="393.9044" y="-154.03473"></viz:position>
+        <viz:position x="278.55676" y="-109.37189"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Data" label="Data">
@@ -5532,7 +5532,7 @@
           <attvalue for="id_copy" value="Data"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="124.674576" y="-410.27435"></viz:position>
+        <viz:position x="87.92955" y="-290.0175"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Enterprise" label="Enterprise">
@@ -5548,7 +5548,7 @@
           <attvalue for="id_copy" value="Enterprise"></attvalue>
         </attvalues>
         <viz:size value="2.0958776"></viz:size>
-        <viz:position x="-49.968292" y="-288.2225"></viz:position>
+        <viz:position x="-34.844036" y="-203.4226"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="PlayPhone" label="PlayPhone">
@@ -5564,7 +5564,7 @@
           <attvalue for="id_copy" value="PlayPhone"></attvalue>
         </attvalues>
         <viz:size value="1.1406486"></viz:size>
-        <viz:position x="203.8259" y="47.986794"></viz:position>
+        <viz:position x="144.45868" y="34.45074"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Mapping" label="Mapping">
@@ -5580,7 +5580,7 @@
           <attvalue for="id_copy" value="Mapping"></attvalue>
         </attvalues>
         <viz:size value="4.357784"></viz:size>
-        <viz:position x="209.97829" y="-140.41614"></viz:position>
+        <viz:position x="148.74318" y="-99.0202"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Habitica" label="Habitica">
@@ -5596,7 +5596,7 @@
           <attvalue for="id_copy" value="Habitica"></attvalue>
         </attvalues>
         <viz:size value="2.6438165"></viz:size>
-        <viz:position x="149.22699" y="260.83902"></viz:position>
+        <viz:position x="104.59146" y="184.89543"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Authentication" label="Authentication">
@@ -5612,7 +5612,7 @@
           <attvalue for="id_copy" value="Authentication"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="15.818785" y="-419.64917"></viz:position>
+        <viz:position x="11.123656" y="-296.55777"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Playmob" label="Playmob">
@@ -5628,7 +5628,7 @@
           <attvalue for="id_copy" value="Playmob"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="-354.18817" y="-30.310383"></viz:position>
+        <viz:position x="-280.74756" y="-16.336468"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Poszkole.pl" label="Poszkole.pl">
@@ -5644,7 +5644,7 @@
           <attvalue for="id_copy" value="Poszkole.pl"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="11.103371" y="23.026773"></viz:position>
+        <viz:position x="6.0955157" y="14.014302"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Xsolla" label="Xsolla">
@@ -5660,7 +5660,7 @@
           <attvalue for="id_copy" value="Xsolla"></attvalue>
         </attvalues>
         <viz:size value="1.0264865"></viz:size>
-        <viz:position x="-359.08438" y="16.691072"></viz:position>
+        <viz:position x="-254.32089" y="12.373853"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Events" label="Events">
@@ -5676,7 +5676,7 @@
           <attvalue for="id_copy" value="Events"></attvalue>
         </attvalues>
         <viz:size value="1.5281523"></viz:size>
-        <viz:position x="-162.03735" y="8.775782"></viz:position>
+        <viz:position x="-113.91242" y="6.16712"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="SRK FGC" label="SRK FGC">
@@ -5692,7 +5692,7 @@
           <attvalue for="id_copy" value="SRK FGC"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-241.06921" y="-198.13528"></viz:position>
+        <viz:position x="-169.52792" y="-139.8035"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="Mobage" label="Mobage">
@@ -5708,7 +5708,7 @@
           <attvalue for="id_copy" value="Mobage"></attvalue>
         </attvalues>
         <viz:size value="1.5982821"></viz:size>
-        <viz:position x="184.45125" y="55.26842"></viz:position>
+        <viz:position x="130.65291" y="39.44768"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="gw2stats.net" label="gw2stats.net">
@@ -5724,7 +5724,7 @@
           <attvalue for="id_copy" value="gw2stats.net"></attvalue>
         </attvalues>
         <viz:size value="1.0833673"></viz:size>
-        <viz:position x="-13.125993" y="-415.73514"></viz:position>
+        <viz:position x="-9.302818" y="-293.74133"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Applications" label="Applications">
@@ -5740,7 +5740,7 @@
           <attvalue for="id_copy" value="Applications"></attvalue>
         </attvalues>
         <viz:size value="1.7636249"></viz:size>
-        <viz:position x="284.0296" y="-15.93074"></viz:position>
+        <viz:position x="201.1635" y="-11.2142105"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Coinworld Lotto" label="Coinworld Lotto">
@@ -5756,7 +5756,7 @@
           <attvalue for="id_copy" value="Coinworld Lotto"></attvalue>
         </attvalues>
         <viz:size value="2.6418195"></viz:size>
-        <viz:position x="-291.05316" y="-153.3001"></viz:position>
+        <viz:position x="-206.46252" y="-109.77569"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Turbulenz" label="Turbulenz">
@@ -5772,7 +5772,7 @@
           <attvalue for="id_copy" value="Turbulenz"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="274.3534" y="-155.67615"></viz:position>
+        <viz:position x="194.05556" y="-110.246635"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="NWN master server tracker" label="NWN master server tracker">
@@ -5788,7 +5788,7 @@
           <attvalue for="id_copy" value="NWN master server tracker"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-43.13975" y="22.59344"></viz:position>
+        <viz:position x="-29.797737" y="15.818927"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="GAMEhud" label="GAMEhud">
@@ -5804,7 +5804,7 @@
           <attvalue for="id_copy" value="GAMEhud"></attvalue>
         </attvalues>
         <viz:size value="1.5496569"></viz:size>
-        <viz:position x="315.0214" y="177.10822"></viz:position>
+        <viz:position x="222.93176" y="125.433556"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Digimi Gizmo" label="Digimi Gizmo">
@@ -5820,7 +5820,7 @@
           <attvalue for="id_copy" value="Digimi Gizmo"></attvalue>
         </attvalues>
         <viz:size value="1.0444351"></viz:size>
-        <viz:position x="-93.59962" y="-7.5998435"></viz:position>
+        <viz:position x="-66.444214" y="-4.8344455"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Widgets" label="Widgets">
@@ -5836,7 +5836,7 @@
           <attvalue for="id_copy" value="Widgets"></attvalue>
         </attvalues>
         <viz:size value="1.0263389"></viz:size>
-        <viz:position x="144.48924" y="-74.44115"></viz:position>
+        <viz:position x="103.14198" y="-51.68659"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="News Services" label="News Services">
@@ -5852,7 +5852,7 @@
           <attvalue for="id_copy" value="News Services"></attvalue>
         </attvalues>
         <viz:size value="1.6710963"></viz:size>
-        <viz:position x="118.32857" y="-273.11646"></viz:position>
+        <viz:position x="83.98829" y="-193.00279"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="V-Play" label="V-Play">
@@ -5868,7 +5868,7 @@
           <attvalue for="id_copy" value="V-Play"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="407.1251" y="-32.799603"></viz:position>
+        <viz:position x="288.04675" y="-23.596811"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Trivia" label="Trivia">
@@ -5884,7 +5884,7 @@
           <attvalue for="id_copy" value="Trivia"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="171.78427" y="-285.8297"></viz:position>
+        <viz:position x="121.68279" y="-202.06297"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Cubiculus" label="Cubiculus">
@@ -5900,7 +5900,7 @@
           <attvalue for="id_copy" value="Cubiculus"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-30.942987" y="-11.2211685"></viz:position>
+        <viz:position x="-22.449196" y="-10.3206415"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Testing" label="Testing">
@@ -5916,7 +5916,7 @@
           <attvalue for="id_copy" value="Testing"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="328.6167" y="-242.46257"></viz:position>
+        <viz:position x="232.22377" y="-171.89453"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Aonaware CountCheatService" label="Aonaware CountCheatService">
@@ -5932,7 +5932,7 @@
           <attvalue for="id_copy" value="Aonaware CountCheatService"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="171.44447" y="372.29282"></viz:position>
+        <viz:position x="120.87834" y="263.50488"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Sponge" label="Sponge">
@@ -5948,7 +5948,7 @@
           <attvalue for="id_copy" value="Sponge"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-74.60551" y="-265.67273"></viz:position>
+        <viz:position x="-52.137943" y="-187.35963"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="PlaySpan" label="PlaySpan">
@@ -5964,7 +5964,7 @@
           <attvalue for="id_copy" value="PlaySpan"></attvalue>
         </attvalues>
         <viz:size value="1.9506776"></viz:size>
-        <viz:position x="-374.08" y="32.341953"></viz:position>
+        <viz:position x="-264.76657" y="22.53444"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Orion's Belt" label="Orion's Belt">
@@ -5980,7 +5980,7 @@
           <attvalue for="id_copy" value="Orion's Belt"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-36.85249" y="-0.12377353"></viz:position>
+        <viz:position x="-28.706795" y="-1.8733126"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Count.ly" label="Count.ly">
@@ -5996,7 +5996,7 @@
           <attvalue for="id_copy" value="Count.ly"></attvalue>
         </attvalues>
         <viz:size value="2.8618128"></viz:size>
-        <viz:position x="-19.736712" y="346.8644"></viz:position>
+        <viz:position x="-14.181621" y="245.26941"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Deck of Cards" label="Deck of Cards">
@@ -6012,7 +6012,7 @@
           <attvalue for="id_copy" value="Deck of Cards"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="34.21119" y="-174.49948"></viz:position>
+        <viz:position x="24.65394" y="-123.18969"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="HabitRPG" label="HabitRPG">
@@ -6028,7 +6028,7 @@
           <attvalue for="id_copy" value="HabitRPG"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-235.6191" y="-231.39246"></viz:position>
+        <viz:position x="-166.55765" y="-163.66318"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Machine Learning" label="Machine Learning">
@@ -6044,7 +6044,7 @@
           <attvalue for="id_copy" value="Machine Learning"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="257.96606" y="189.90755"></viz:position>
+        <viz:position x="182.52332" y="134.61954"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="SchemingMind" label="SchemingMind">
@@ -6060,7 +6060,7 @@
           <attvalue for="id_copy" value="SchemingMind"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-260.31522" y="69.33776"></viz:position>
+        <viz:position x="-184.26071" y="48.108032"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Elophant" label="Elophant">
@@ -6076,7 +6076,7 @@
           <attvalue for="id_copy" value="Elophant"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-23.031124" y="4.140053"></viz:position>
+        <viz:position x="-19.356339" y="-0.9159065"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Spore" label="Spore">
@@ -6092,7 +6092,7 @@
           <attvalue for="id_copy" value="Spore"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-23.1092" y="35.95805"></viz:position>
+        <viz:position x="-17.21886" y="24.376116"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Telephony" label="Telephony">
@@ -6108,7 +6108,7 @@
           <attvalue for="id_copy" value="Telephony"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-244.39793" y="362.93927"></viz:position>
+        <viz:position x="-173.12013" y="256.3662"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Sports" label="Sports">
@@ -6124,7 +6124,7 @@
           <attvalue for="id_copy" value="Sports"></attvalue>
         </attvalues>
         <viz:size value="5.0209894"></viz:size>
-        <viz:position x="134.24823" y="-347.143"></viz:position>
+        <viz:position x="94.94055" y="-245.30815"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="RankMyTyping" label="RankMyTyping">
@@ -6140,7 +6140,7 @@
           <attvalue for="id_copy" value="RankMyTyping"></attvalue>
         </attvalues>
         <viz:size value="3.0016193"></viz:size>
-        <viz:position x="335.8251" y="-245.29225"></viz:position>
+        <viz:position x="237.32787" y="-173.89874"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="HammerWiki War" label="HammerWiki War">
@@ -6156,7 +6156,7 @@
           <attvalue for="id_copy" value="HammerWiki War"></attvalue>
         </attvalues>
         <viz:size value="1.4754323"></viz:size>
-        <viz:position x="72.67171" y="74.72451"></viz:position>
+        <viz:position x="51.362534" y="52.915028"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Bunchball" label="Bunchball">
@@ -6172,7 +6172,7 @@
           <attvalue for="id_copy" value="Bunchball"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="23.071697" y="-2.6473682"></viz:position>
+        <viz:position x="16.513458" y="-1.0867687"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Clash of Clans Developer" label="Clash of Clans Developer">
@@ -6188,7 +6188,7 @@
           <attvalue for="id_copy" value="Clash of Clans Developer"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="119.95912" y="-409.81268"></viz:position>
+        <viz:position x="84.5845" y="-289.7026"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Enjin" label="Enjin">
@@ -6204,7 +6204,7 @@
           <attvalue for="id_copy" value="Enjin"></attvalue>
         </attvalues>
         <viz:size value="2.3061433"></viz:size>
-        <viz:position x="-148.79767" y="350.66748"></viz:position>
+        <viz:position x="-105.396095" y="247.98439"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Pwned.com" label="Pwned.com">
@@ -6220,7 +6220,7 @@
           <attvalue for="id_copy" value="Pwned.com"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-80.30351" y="171.97523"></viz:position>
+        <viz:position x="-56.64312" y="121.55709"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Recommendations" label="Recommendations">
@@ -6236,7 +6236,7 @@
           <attvalue for="id_copy" value="Recommendations"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-340.34338" y="134.54276"></viz:position>
+        <viz:position x="-239.79092" y="94.6703"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Optimization" label="Optimization">
@@ -6252,7 +6252,7 @@
           <attvalue for="id_copy" value="Optimization"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-234.91017" y="238.86563"></viz:position>
+        <viz:position x="-166.1739" y="168.69553"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="GameSparks" label="GameSparks">
@@ -6268,7 +6268,7 @@
           <attvalue for="id_copy" value="GameSparks"></attvalue>
         </attvalues>
         <viz:size value="1.2827317"></viz:size>
-        <viz:position x="180.16696" y="115.26408"></viz:position>
+        <viz:position x="127.79668" y="81.81467"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Classification" label="Classification">
@@ -6284,7 +6284,7 @@
           <attvalue for="id_copy" value="Classification"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-128.99637" y="-22.876984"></viz:position>
+        <viz:position x="-90.64859" y="-15.961505"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Sales" label="Sales">
@@ -6300,7 +6300,7 @@
           <attvalue for="id_copy" value="Sales"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="82.16041" y="267.05222"></viz:position>
+        <viz:position x="58.412003" y="189.07185"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Fupa Games" label="Fupa Games">
@@ -6316,7 +6316,7 @@
           <attvalue for="id_copy" value="Fupa Games"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="28.165854" y="9.123523"></viz:position>
+        <viz:position x="19.594944" y="6.941677"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="PikaPay" label="PikaPay">
@@ -6332,7 +6332,7 @@
           <attvalue for="id_copy" value="PikaPay"></attvalue>
         </attvalues>
         <viz:size value="3.3836236"></viz:size>
-        <viz:position x="-382.21994" y="-50.404938"></viz:position>
+        <viz:position x="-266.03156" y="-36.88726"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="England" label="England">
@@ -6348,7 +6348,7 @@
           <attvalue for="id_copy" value="England"></attvalue>
         </attvalues>
         <viz:size value="1.5494483"></viz:size>
-        <viz:position x="90.0102" y="402.6249"></viz:position>
+        <viz:position x="63.225956" y="284.89728"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Luxe Engine" label="Luxe Engine">
@@ -6364,7 +6364,7 @@
           <attvalue for="id_copy" value="Luxe Engine"></attvalue>
         </attvalues>
         <viz:size value="1.7107582"></viz:size>
-        <viz:position x="-33.524876" y="287.26688"></viz:position>
+        <viz:position x="-23.70983" y="203.21028"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Lists" label="Lists">
@@ -6380,7 +6380,7 @@
           <attvalue for="id_copy" value="Lists"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="139.62668" y="261.46698"></viz:position>
+        <viz:position x="112.676865" y="182.74707"></viz:position>
         <viz:color r="0" g="196" b="255"></viz:color>
       </node>
       <node id="Discounts" label="Discounts">
@@ -6396,7 +6396,7 @@
           <attvalue for="id_copy" value="Discounts"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-359.94876" y="227.57347"></viz:position>
+        <viz:position x="-254.56027" y="160.4995"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="International Flipper Pinball Association" label="International Flipper Pinball Association">
@@ -6412,7 +6412,7 @@
           <attvalue for="id_copy" value="International Flipper Pinball Association"></attvalue>
         </attvalues>
         <viz:size value="2.9342878"></viz:size>
-        <viz:position x="-5.952446" y="-325.10565"></viz:position>
+        <viz:position x="-4.0391154" y="-229.54977"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Coupons" label="Coupons">
@@ -6428,7 +6428,7 @@
           <attvalue for="id_copy" value="Coupons"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-346.65942" y="206.70912"></viz:position>
+        <viz:position x="-245.21771" y="145.73097"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="NationStates" label="NationStates">
@@ -6444,7 +6444,7 @@
           <attvalue for="id_copy" value="NationStates"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-10.699406" y="11.469866"></viz:position>
+        <viz:position x="-13.039561" y="6.383035"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Audio" label="Audio">
@@ -6460,7 +6460,7 @@
           <attvalue for="id_copy" value="Audio"></attvalue>
         </attvalues>
         <viz:size value="1.3295639"></viz:size>
-        <viz:position x="121.88348" y="63.92945"></viz:position>
+        <viz:position x="86.269516" y="45.755005"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Stats" label="Stats">
@@ -6476,7 +6476,7 @@
           <attvalue for="id_copy" value="Stats"></attvalue>
         </attvalues>
         <viz:size value="1.6850263"></viz:size>
-        <viz:position x="146.51788" y="-254.2884"></viz:position>
+        <viz:position x="103.37742" y="-179.6067"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Lottorisq" label="Lottorisq">
@@ -6492,7 +6492,7 @@
           <attvalue for="id_copy" value="Lottorisq"></attvalue>
         </attvalues>
         <viz:size value="2.0973873"></viz:size>
-        <viz:position x="-207.5487" y="-305.61362"></viz:position>
+        <viz:position x="-146.46236" y="-216.38437"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="osu!" label="osu!">
@@ -6508,7 +6508,7 @@
           <attvalue for="id_copy" value="osu!"></attvalue>
         </attvalues>
         <viz:size value="2.1390004"></viz:size>
-        <viz:position x="185.81393" y="236.03036"></viz:position>
+        <viz:position x="131.41312" y="167.23845"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Blizzard Community Platform" label="Blizzard Community Platform">
@@ -6524,7 +6524,7 @@
           <attvalue for="id_copy" value="Blizzard Community Platform"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-74.72206" y="153.03738"></viz:position>
+        <viz:position x="-52.807335" y="108.13258"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Kimono Sochi Olympics" label="Kimono Sochi Olympics">
@@ -6540,7 +6540,7 @@
           <attvalue for="id_copy" value="Kimono Sochi Olympics"></attvalue>
         </attvalues>
         <viz:size value="5.66555"></viz:size>
-        <viz:position x="6.2573767" y="-257.05453"></viz:position>
+        <viz:position x="4.719349" y="-181.35982"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Web Site Management" label="Web Site Management">
@@ -6556,7 +6556,7 @@
           <attvalue for="id_copy" value="Web Site Management"></attvalue>
         </attvalues>
         <viz:size value="1.3417164"></viz:size>
-        <viz:position x="-138.79918" y="386.60492"></viz:position>
+        <viz:position x="-98.47192" y="273.38773"></viz:position>
         <viz:color r="192" g="192" b="192"></viz:color>
       </node>
       <node id="Gamedonia" label="Gamedonia">
@@ -6572,7 +6572,7 @@
           <attvalue for="id_copy" value="Gamedonia"></attvalue>
         </attvalues>
         <viz:size value="4.314154"></viz:size>
-        <viz:position x="323.6233" y="30.895788"></viz:position>
+        <viz:position x="229.25856" y="21.38583"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Parallel Kingdom Trade Data" label="Parallel Kingdom Trade Data">
@@ -6588,7 +6588,7 @@
           <attvalue for="id_copy" value="Parallel Kingdom Trade Data"></attvalue>
         </attvalues>
         <viz:size value="2.1515834"></viz:size>
-        <viz:position x="-344.80316" y="-90.73105"></viz:position>
+        <viz:position x="-225.19916" y="-48.302433"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="TappedOut" label="TappedOut">
@@ -6604,7 +6604,7 @@
           <attvalue for="id_copy" value="TappedOut"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="2.9806433" y="11.646371"></viz:position>
+        <viz:position x="-2.572804" y="8.4975395"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Currency" label="Currency">
@@ -6620,7 +6620,7 @@
           <attvalue for="id_copy" value="Currency"></attvalue>
         </attvalues>
         <viz:size value="1.7074816"></viz:size>
-        <viz:position x="-285.8814" y="-105.50842"></viz:position>
+        <viz:position x="-204.40317" y="-76.50013"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Opencaching.us" label="Opencaching.us">
@@ -6636,7 +6636,7 @@
           <attvalue for="id_copy" value="Opencaching.us"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="220.42897" y="-142.80916"></viz:position>
+        <viz:position x="155.55603" y="-94.61986"></viz:position>
         <viz:color r="255" g="136" b="5"></viz:color>
       </node>
       <node id="Database" label="Database">
@@ -6652,7 +6652,7 @@
           <attvalue for="id_copy" value="Database"></attvalue>
         </attvalues>
         <viz:size value="8.566137"></viz:size>
-        <viz:position x="-30.278313" y="-186.13162"></viz:position>
+        <viz:position x="-21.00914" y="-131.12196"></viz:position>
         <viz:color r="76" g="70" b="62"></viz:color>
       </node>
       <node id="California Lottery" label="California Lottery">
@@ -6668,7 +6668,7 @@
           <attvalue for="id_copy" value="California Lottery"></attvalue>
         </attvalues>
         <viz:size value="1.7374897"></viz:size>
-        <viz:position x="-147.77266" y="-234.50699"></viz:position>
+        <viz:position x="-104.07698" y="-166.26291"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Redbox Widgets" label="Redbox Widgets">
@@ -6684,7 +6684,7 @@
           <attvalue for="id_copy" value="Redbox Widgets"></attvalue>
         </attvalues>
         <viz:size value="1.3283674"></viz:size>
-        <viz:position x="129.6362" y="-73.33251"></viz:position>
+        <viz:position x="92.614105" y="-51.01996"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="Ratings" label="Ratings">
@@ -6700,7 +6700,7 @@
           <attvalue for="id_copy" value="Ratings"></attvalue>
         </attvalues>
         <viz:size value="3.1745746"></viz:size>
-        <viz:position x="-25.418808" y="-409.63843"></viz:position>
+        <viz:position x="-17.981419" y="-289.41516"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Clay.io" label="Clay.io">
@@ -6716,7 +6716,7 @@
           <attvalue for="id_copy" value="Clay.io"></attvalue>
         </attvalues>
         <viz:size value="3.5488367"></viz:size>
-        <viz:position x="7.9025183" y="47.9386"></viz:position>
+        <viz:position x="7.5318656" y="32.381214"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Heroic Labs" label="Heroic Labs">
@@ -6732,7 +6732,7 @@
           <attvalue for="id_copy" value="Heroic Labs"></attvalue>
         </attvalues>
         <viz:size value="5.8199797"></viz:size>
-        <viz:position x="412.00128" y="-81.86663"></viz:position>
+        <viz:position x="291.45483" y="-58.29674"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Video Games via JSON" label="Video Games via JSON">
@@ -6748,7 +6748,7 @@
           <attvalue for="id_copy" value="Video Games via JSON"></attvalue>
         </attvalues>
         <viz:size value="2.0973873"></viz:size>
-        <viz:position x="82.1661" y="261.48022"></viz:position>
+        <viz:position x="58.375862" y="185.13792"></viz:position>
         <viz:color r="211" g="179" b="176"></viz:color>
       </node>
       <node id="Platform-as-a-Service" label="Platform-as-a-Service">
@@ -6764,7 +6764,7 @@
           <attvalue for="id_copy" value="Platform-as-a-Service"></attvalue>
         </attvalues>
         <viz:size value="1.1625707"></viz:size>
-        <viz:position x="-62.188786" y="284.12445"></viz:position>
+        <viz:position x="-43.984272" y="200.9533"></viz:position>
         <viz:color r="255" g="85" b="132"></viz:color>
       </node>
       <node id="GameAnalytics" label="GameAnalytics">
@@ -6780,7 +6780,7 @@
           <attvalue for="id_copy" value="GameAnalytics"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="222.4019" y="282.30127"></viz:position>
+        <viz:position x="157.17532" y="199.9254"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Roar Engine" label="Roar Engine">
@@ -6796,7 +6796,7 @@
           <attvalue for="id_copy" value="Roar Engine"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-59.090576" y="172.86554"></viz:position>
+        <viz:position x="-41.740128" y="122.26445"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Betable" label="Betable">
@@ -6812,7 +6812,7 @@
           <attvalue for="id_copy" value="Betable"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-177.263" y="-191.08832"></viz:position>
+        <viz:position x="-125.12287" y="-135.38177"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="CoinRoll" label="CoinRoll">
@@ -6828,7 +6828,7 @@
           <attvalue for="id_copy" value="CoinRoll"></attvalue>
         </attvalues>
         <viz:size value="6.3281755"></viz:size>
-        <viz:position x="-297.89532" y="-96.529015"></viz:position>
+        <viz:position x="-213.7624" y="-71.09157"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="BoardGameGeek" label="BoardGameGeek">
@@ -6844,7 +6844,7 @@
           <attvalue for="id_copy" value="BoardGameGeek"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-74.41961" y="190.31001"></viz:position>
+        <viz:position x="-52.675602" y="134.58687"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Battlefield Bad Company Stats" label="Battlefield Bad Company Stats">
@@ -6860,7 +6860,7 @@
           <attvalue for="id_copy" value="Battlefield Bad Company Stats"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="28.355421" y="-331.00217"></viz:position>
+        <viz:position x="20.047495" y="-233.99564"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Predictions" label="Predictions">
@@ -6876,7 +6876,7 @@
           <attvalue for="id_copy" value="Predictions"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="58.737892" y="-282.15228"></viz:position>
+        <viz:position x="41.49021" y="-199.42963"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Buxville" label="Buxville">
@@ -6892,7 +6892,7 @@
           <attvalue for="id_copy" value="Buxville"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-30.226225" y="25.498365"></viz:position>
+        <viz:position x="-20.358864" y="15.669076"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Texas Holdem" label="Texas Holdem">
@@ -6908,7 +6908,7 @@
           <attvalue for="id_copy" value="Texas Holdem"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-176.14557" y="-211.97595"></viz:position>
+        <viz:position x="-124.34834" y="-150.24413"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="SponsorPay" label="SponsorPay">
@@ -6924,7 +6924,7 @@
           <attvalue for="id_copy" value="SponsorPay"></attvalue>
         </attvalues>
         <viz:size value="1.1451349"></viz:size>
-        <viz:position x="295.315" y="109.9885"></viz:position>
+        <viz:position x="208.96198" y="78.20005"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="Kuzzle" label="Kuzzle">
@@ -6940,7 +6940,7 @@
           <attvalue for="id_copy" value="Kuzzle"></attvalue>
         </attvalues>
         <viz:size value="1.9743309"></viz:size>
-        <viz:position x="339.52124" y="4.916899"></viz:position>
+        <viz:position x="240.48152" y="3.1801658"></viz:position>
         <viz:color r="0" g="189" b="148"></viz:color>
       </node>
       <node id="Miniplay" label="Miniplay">
@@ -6956,7 +6956,7 @@
           <attvalue for="id_copy" value="Miniplay"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="14.825751" y="7.89412"></viz:position>
+        <viz:position x="8.956538" y="5.5807962"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
       <node id="AMD Mantle" label="AMD Mantle">
@@ -6972,7 +6972,7 @@
           <attvalue for="id_copy" value="AMD Mantle"></attvalue>
         </attvalues>
         <viz:size value="1.1021892"></viz:size>
-        <viz:position x="99.02833" y="3.2382858"></viz:position>
+        <viz:position x="69.35221" y="2.7600408"></viz:position>
         <viz:color r="115" g="192" b="0"></viz:color>
       </node>
       <node id="Coinding" label="Coinding">
@@ -6988,7 +6988,7 @@
           <attvalue for="id_copy" value="Coinding"></attvalue>
         </attvalues>
         <viz:size value="1.0"></viz:size>
-        <viz:position x="-322.65836" y="-161.10582"></viz:position>
+        <viz:position x="-228.20328" y="-114.94262"></viz:position>
         <viz:color r="223" g="137" b="255"></viz:color>
       </node>
     </nodes>
