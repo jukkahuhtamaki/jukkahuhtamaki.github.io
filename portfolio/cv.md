@@ -79,8 +79,8 @@ Awards, prizes and honours
 * 2012, Nokia Siemens Networks Winner of ISPIM 2012 Best Technology Paper Award
 * 2013, Academic Mindtrek Best Paper Award
 
-
 Other academic merits
+
 * Founding member of the Innovation Ecosystems Network
 * Associate Editor, Behaviormetrika, Springer
 
@@ -90,6 +90,7 @@ administrative responsibilities at higher education institutions or at research 
 invited keynote lectures abroad -->
 
 Scientific and societal impact of research
+
 * h-index: 12 ([Google Scholar](https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ&hl=fi&oi=ao]))
 <!-- total number of publications and, e.g., 10 most important and/or most cited publications according to a relevant database (a list of publications according to the Publication Type Classification used by the Ministry of Education, Science and Culture as a separate attachment)
 artistic works and processes
