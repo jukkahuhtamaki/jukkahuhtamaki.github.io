@@ -191,19 +191,21 @@ mixpanel.track("Begin presentation");
 	<p>Python-based process <a href="https://github.com/jukkahuhtamaki/data-driven-literature-review">is available</a> for scraping the data and converting it into network format</p> -->
 </section>
 
+<!--
 <section>
 	<h1>In practice</h1>
 	<p>Interpreting your Facebook friendship network is an educational exercise.</p>
 	<p>Kari A. Hintikka <a href="http://verkkovoimaa.wordpress.com/2011/03/10/omat-facebook-aliverkostot-esiin-gephilla/">instructs</a> (this one in Finnish, too),
 		Jukka shows an example should time allow.</p>
 </section>
+-->
 
 <section>
 	<h1>Part 2: From data to network</h1>
 </section>
 
 <section>
-	<h1>Choises on network structure </h1>
+	<h1>Choices on network structure </h1>
 	<ol id="test">
 		<li>Which entities nodes represent?</li>
 		<li>On what basis are nodes connected to each other?</li>
@@ -228,9 +230,9 @@ mixpanel.track("Begin presentation");
 
 <section>
 	<h1>From tweets to a network</h1>
-	<p>Let's decompose <a href="https://twitter.com/jnkka/status/651416059799576576">an example tweet</a> into network data:</p>
-	<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">With <a href="https://twitter.com/lesterlasrado">@lesterlasrado</a>, <a href="https://twitter.com/menonkaran">@menonkaran</a>, <a href="https://twitter.com/jjussila">@jjussila</a> and others. Collaboration b/w <a href="https://twitter.com/CBScph">@CBScph</a> and <a href="https://twitter.com/TampereUniTech">@TampereUniTech</a> in the making! <a href="https://t.co/fwKkA7NZq5">https://t.co/fwKkA7NZq5</a></p>&mdash; Jukka Huhtamäki (@jnkka) <a href="https://twitter.com/jnkka/status/651416059799576576">October 6, 2015</a></blockquote>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<p>Let's decompose <a href="https://twitter.com/jnkka/status/932521513848393729">an example tweet</a> into network data:</p>
+  <blockquote class="twitter-tweet" data-lang="fi"><p lang="en" dir="ltr">Today, I am giving a quick introduction to <a href="https://twitter.com/Gephi?ref_src=twsrc%5Etfw">@gephi</a> and data-driven visual network analytics <a href="https://twitter.com/FU_Berlin?ref_src=twsrc%5Etfw">@FU_Berlin</a>. Thanks again for the opportunity, <a href="https://twitter.com/cpt_ftr?ref_src=twsrc%5Etfw">@cpt_ftr</a>! <a href="https://twitter.com/hashtag/ostinatomodel?src=hash&amp;ref_src=twsrc%5Etfw">#ostinatomodel</a></p>&mdash; Jukka Huhtamäki (@jnkka) <a href="https://twitter.com/jnkka/status/932521513848393729?ref_src=twsrc%5Etfw">20. marraskuuta 2017</a></blockquote>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	<ol>
 		<li>Nodes? Connections?</li>
 		<li>One, two, multimode?</li>
@@ -261,6 +263,7 @@ mixpanel.track("Begin presentation");
 		<li>The center of a gravitational field is placed in the middle of the canvas</li>
 		<li>The process is run and configured in iteration until the visualizer is happy with the result</li>
 	</ol>
+  <p><a href="https://doi.org/10.1371/journal.pone.0098679">ForceAtlas2</a> is an example of force-driven layout algorithm</p>
 </section>
 
 <section>
@@ -270,7 +273,7 @@ mixpanel.track("Begin presentation");
 		<li>Outdegree: number of connections away from a node</li>
 		<li>Indegree: number of connections toward a node</li>
 		<li>Betweenness centrality: shortest paths through a node</li>
-		<li>Authority</li>
+		<li>Authority: PageRank, HITS, ...</li>
 		<li>Clustering coefficient, closure, ...</li>
 	</ul>
 </section>
