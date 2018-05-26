@@ -60,15 +60,12 @@ Hyper: 1.9.2017–31.8.2021
 <!-- 1.9.2017-30.11.2019 -->
 <!--  300 000 EUR -->
 * 2017-2019 · BIG Match - Better Social Matches in Professional Life through Analysis of Big Social Data. Business Finland (3166/31/2017). Co-PI at Tampere University of Technology in collaboration with Associate Professor Thomas Olsson, University of Tampere.
-
 <!-- 01.09.2017 - 31.08.2021 -->
 <!-- 309 180 EUR -->
 * 2017-2021 · HYTE - Hybrid Terrorizing. Developing a New Model for the Study of Global Media Events of Terrorist Violence. Academy of Finland (308850). PI Katja Valaskivi, University of Tampere. Postdoctoral Researcher at University of Tampere, empirical and methodological development of hybrid media studies.
-
 <!-- 01.09.2017 - 31.08.2021 -->
 <!-- 480 000 EUR -->
 * 2017-2021 · HYPER - Performance Measurement for Hybrid Governance. Academy of Finland  (309134). PI Jarmo Vakkuri, University of Tampere. Postdoctoral Researcher (at University of Tampere), empirical and methodological development of performance measurement in hybrid organizations.
-
 *	2016-2017 · COBWEB - Enhancing Knowledge Work and Co-creation with Analysis of Weak Ties in Online Services. Academy of Finland (PI Hannu Kärkkäinen, sub-PI Ossi Nykänen/Tapio Elomaa). Project researcher, key role in project preparation and research design.
 *	2014-2015 · SPEED - Systemic paths of ecosystem evolution dynamics, TEKES. (PI Hannu Kärkkäinen, sub-PI Seppo Pohjolainen). Project manager, lead researcher at Department of Mathematics, key role in project preparation.
 *	2013-2015 · REINO - Relational capital for innovative growth companies, TEKES. Project manager, lead researcher at Department of Mathematics, key role in project preparation.
