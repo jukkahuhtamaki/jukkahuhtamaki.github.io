@@ -13,7 +13,7 @@
 * Huhtamäki, Jukka Viljami 
 * ORC<span style="color: #a6ce39">iD</span> [0000-0003-2707-108X](https://orcid.org/0000-0003-2707-108X)
 * Male
-* Updated: May 26, 2018
+* Updated: August 15, 2018
 
 **Date and place of birth, nationality, current residence**
 
@@ -101,6 +101,9 @@ Hyper: 1.9.2017–31.8.2021
 
 * Founding member of the Innovation Ecosystems Network
 * Associate Editor, Behaviormetrika, Springer
+* Co-chair, Managing Platforms and Ecosystems Minitrack, HICSS 2019
+* Associate Editor, Data Science and Predictive 
+Analytics Track, ICIS 2018 
 
 <!-- positions as editor-in-chief, editor, or member of editorial boards of scientific and scholarly journals and publication series
 referee for scientific and scholarly journals
@@ -110,7 +113,7 @@ invited keynote lectures abroad -->
 **Scientific and societal impact of research**
 
 * h-index: 14 ([Google Scholar](https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ&hl=fi&oi=ao])), 7 (Scopus)
-* Citations: 680 (Google Scholar), 212 (Scopus) 
+* Citations: 737 (Google Scholar), 212 (Scopus) 
 <!-- total number of publications and, e.g., 10 most important and/or most cited publications according to a relevant database (a list of publications according to the Publication Type Classification used by the Ministry of Education, Science and Culture as a separate attachment)
 artistic works and processes
 merits related to the production and distribution of research results and research data
