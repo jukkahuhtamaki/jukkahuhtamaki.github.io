@@ -104,6 +104,7 @@ Hyper: 1.9.2017–31.8.2021
 * Co-chair, Managing Platforms and Ecosystems Minitrack, HICSS 2019
 * Associate Editor, Data Science and Predictive 
 Analytics Track, ICIS 2018 
+* Member of the Open Science and Research Working Group at Tampere University, 2018
 
 <!-- positions as editor-in-chief, editor, or member of editorial boards of scientific and scholarly journals and publication series
 referee for scientific and scholarly journals
