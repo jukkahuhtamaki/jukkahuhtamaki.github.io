@@ -1,4 +1,10 @@
 <style type="text/css">
+	body {
+		font-size: smaller;
+	}
+	li {
+		font-size: 10pt;
+	}
 	a {
 		color: black; 
 	}
@@ -82,8 +88,8 @@ Hyper: 1.9.2017–31.8.2021
 
 **Merits in teaching and pedagogical competence**
 
-* Design, implementation, and lecturing Introduction to Data Science (Johdanto datatieteeseen), undergraduate, in Finnish, 2018-
-* Design, implementation, and lecturing Programmatic Content Management (Ohjelmallinen sisällönhallinta), undergraduate, in Finnish, 2014-
+* Design and lecturing Introduction to Data Science (Johdanto datatieteeseen), undergraduate, in Finnish, 2018-
+* Design and lecturing Programmatic Content Management (Ohjelmallinen sisällönhallinta), undergraduate, in Finnish, 2014-
 * Design, implementing, and lecturing Programming of Hypermedia (Hypermedian ohjelmointi), undergraduate, in Finnish, 2005-2013
 * Lecturing Basics of Hypermedia (Hypermedian perusteet), undergraduate, in Finnish, 2003-2004
 * Lecturing Structured documents (Rakenteiset dokumentit), undergraduate, in Finnish, 2003-2004
