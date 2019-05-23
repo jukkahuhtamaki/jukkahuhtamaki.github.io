@@ -1,0 +1,75 @@
+
+
+.reveal body, 
+.reveal p,
+.reveal ol,
+.reveal ul,
+.reveal dl,
+.reveal blockquote,
+.reveal table {
+  font-size: 80%;
+  text-align: left !important;
+  /*margin-left: 2ex;*/
+  width: auto;
+
+}
+
+/*#test {
+  text-align: left;
+}
+*/
+.reveal h1,
+.reveal h2, 
+.reveal h3 {
+  text-align: left;
+}
+
+.reveal h1 {
+  font-size: 140%;
+}
+
+.reveal h2 {
+  font-size: 120%;
+}
+
+.reveal h3 {
+  font-size: 100%;
+}
+
+.reveal dd,
+.reveal blockquote {
+  margin-left: 2ex;
+}
+
+ul, ol, div, p {
+  visibility: visible;
+  margin-top: 1ex;
+  /*position: static;*/
+  /*width: auto;*/
+  /*height: auto;*/
+  /*display: block;*/
+  /*overflow: visible;*/
+  /*margin: auto;*/
+  text-align: left !important;
+}
+
+/*.reveal .slides {
+  height: 100%;
+  top: 10;
+  margin-top: 0;
+}
+
+.reveal .slides>section {
+  min-height: 90%;
+}
+
+.reveal .slides>section>section {
+  min-height: 100%;
+}
+*/
+
+.reveal section.present {
+    bottom: 0px;
+    overflow-y: auto  !important;
+    overflow-x: hidden !important;
+  }

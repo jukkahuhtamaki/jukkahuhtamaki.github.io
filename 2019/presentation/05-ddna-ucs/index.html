@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Introduction to Data-Driven Network Analytics</title>
+		<meta name="description" content="Introduction to Data-Driven Network Analytics">
+		<meta name="author" content="Jukka Huhtamäki">
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+		<link rel="stylesheet" href="css/reveal.css">
+		<!-- <link rel="stylesheet" href="css/theme/black.css" id="theme"> -->
+		<link rel="stylesheet" href="css/theme/simple.css" id="theme">
+		<link rel="stylesheet" href="css/theme/educating.css">
+
+		<!-- Code syntax highlighting -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+		<style type="text/css">
+			td {font-size: 60%;}
+		</style>
+
+<!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("fa6a9585a3ccaa73016e3e878baa9735");
+
+// Uncomment to disable tracking e.g. when editing (and thus refreshing) the presentation:
+// mixpanel.disable();
+</script><!-- end Mixpanel -->
+
+<script type="text/javascript">
+mixpanel.track("Begin presentation");
+</script>
+
+</head>
+
+<body>
+
+<div class="reveal">
+
+<!-- Any section element inside of this container is displayed as a slide -->
+<div class="slides linear">
+
+<section>
+	<h1>Introduction to Data-Driven Network Analytics (with Gephi)</h1>
+	<h3>Freie Universität Berlin 2017</h3>
+	<p><a href="http://www.linkedin.com/in/jukkahuhtamaki">Jukka Huhtamäki</a></p>
+	<p style="font-size: smaller;"> Based on a presentation at <a href="http://jukkahuhtamaki.github.io/2015/presentation/10-ddna/">Workshop on Big Social Data Analytics</a> held at CBS in Copenhagen in October 2015.</p>
+</section>
+
+<section>
+	<h1>Principle</h1>
+	<p><img src="media/sn-anatomy.png" alt="Anatomy of a social network (Gray, 2012)" height="500"/></p>
+	<p>Image Source: <a href="https://plus.google.com/+DaveGray/posts/CQRVeKEsUvF">Anatomy of a social network</a> (Gray 2012)</p>
+</section>
+
+<section>
+ 	<h1>History: Six Handshakes</h1>
+ 	<p>Milgram's (1967) experiments gave firm evidence on the existence of a small-world: "the diameter of the world" is roughly six handshakes.</p>
+	<p><img src="media/small-world-excerpt.png" alt="Excerpt from Milgram (1967)" height="500"/></p>
+</section>
+
+<section>
+	<h1>Key result: Scale Free networks</h1>
+	<p>Barabási and Bonabeau (<a href="http://www.scientificamerican.com/article/scale-free-networks/">2003</a>) presented the principle of scale-free networks and the reason for their existence: preferential attachment process</p>
+	<p><img src="http://www.etoro.com/blog/wp-content/uploads/2011/11/blog-29-picture-1.jpg" alt="Random vs. scale-free network (Barabási and Bonabeau, 2003)" height="500"/></p>
+	<p>Image Source: <a href="http://www.scientificamerican.com/article/scale-free-networks/">Scale-Free Networks</a> (Barabási and Bonabeau, 2003)</p>
+</section>
+
+<section>
+	<h1>Example: Finnish Innovation Ecosystem</h1>
+	<p>Finnish Innovation Ecosystem (Still et al., 2013)</p>
+	<p><a href="media/example-fie.pdf"><img src="media/example-fie.jpg" alt="Finnish Innovation Ecosystem (Still et al., 2013)" height="500"/></a></p>
+</section>
+
+<section>
+<h1>Part 1: Collecting data</h1>
+</section>
+
+<section>
+	<h1>The objective is to put together a sociomatrix</h1>
+	<p><img src="media/sociomatrix.jpg" alt="Sociomatrix example"/></p>
+	<p>Image source: Hoffman (2000): <a href="http://www.hoopandtree.org/cons_sociometry_introduction.pdf">Introduction to Sociometry</a></p>
+	<p>Sociomatrix is the matrix representation of a sociogram. (Moreno (<a href="http://www.asgpp.org/docs/WSS/WSS.html">1934</a>) may have used the latter in a slightly different meaning.)</p>
+	<p>Sociomatrix enumerates the individual connections between actors. Matrix representation allows for different kinds of computations, cf.
+		<a href="http://www.slideshare.net/Miilumaki/2011-0311-verkostoanalyysimiilumaki">Miilumäki (2011)</a>.
+</section>
+
+<section>
+	<h1>In practice connections are simply enumerated one by one</h1>
+	<table>
+	<thead>
+		<tr>
+			<td>Source</td>
+			<td>Target</td>
+			<td>Type</td>
+			<td>Id</td>
+			<td>Label</td>
+			<td>Weight</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>26</td><td>11</td><td>Directed</td><td>55</td><td></td><td>31</td>
+		</tr>
+		<tr>
+			<td>55</td><td>26</td><td>Directed</td><td>131</td><td></td><td>21</td>
+		</tr>
+		<tr>
+			<td>55</td><td>11</td><td>Directed</td><td>132</td><td></td><td>19</td>
+		</tr>
+		<tr>
+			<td>27</td><td>11</td><td>Directed</td><td>58</td><td></td><td>17</td>
+		</tr>
+		<tr>
+			<td>62</td><td>58</td><td>Directed</td><td>161</td><td></td><td>17</td>
+		</tr>
+		<tr>
+			<td>59</td><td>58</td><td>Directed</td><td>147</td><td></td><td>15</td>
+		</tr>
+		<tr>
+			<td>25</td><td>24</td><td>Directed</td><td>51</td><td></td><td>13</td>
+		</tr>
+		<tr>
+			<td>62</td><td>59</td><td>Directed</td><td>162</td><td></td><td>13</td>
+		</tr>
+		<tr>
+			<td>25</td><td>11</td><td>Directed</td><td>53</td><td></td><td>12</td>
+		</tr>
+		<tr>
+			<td>55</td><td>49</td><td>Directed</td><td>128</td><td></td><td>12</td>
+		</tr>
+		<tr>
+			<td>64</td><td>62</td><td>Directed</td><td>177</td><td></td><td>12</td>
+		</tr>
+	</tbody>
+	</table>
+	<p>. . .</p>
+</section>
+
+<section>
+	<h1>Network representation of the previous: Les Miserables</h1>
+	<p>
+		<a href="media/kurjat.pdf"><img width="400" src="media/kurjat.png" alt="Characters in Les Miserables"/></a>
+	</p>
+	<p>
+		<a href="https://gephi.org/datasets/lesmiserables.gml.zip">https://gephi.org/datasets/lesmiserables.gml.zip</a>
+	</p>
+</section>
+
+<!--
+<section>
+	<h1>Another example: government networks</h1>
+	<p>Olli Parviaisen introduces <a href="http://www.slideshare.net/Verkostoanatomia/hallitus-verkostoanalyysi-nodexljagephiverkostoanatomia"> a straigtforward way to conduct network analysis</a> (if you first learn Finnish ;).</p>
+</section>
+-->
+
+<section id="twiitti">
+	<h1>To data upstream: Twitter</h1>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="fi" dir="ltr">Vastaan maanantaina Seinäjoen yliopistokeskuksessa kysymykseen &quot;Kuinka tehdään <a href="https://twitter.com/hashtag/verkostotutkimus?src=hash&amp;ref_src=twsrc%5Etfw">#verkostotutkimus</a>:ta?&quot; <a href="https://twitter.com/hashtag/verkostoanalyysi?src=hash&amp;ref_src=twsrc%5Etfw">#verkostoanalyysi</a><br><br>Tutkijatapaamiset ovat avoimia tilaisuuksia. Tervetuloa tutkijahotellin väki, muut tutkijat ja tutkimuksesta kiinnostuneet!<a href="https://t.co/EBZU0LDC1M">https://t.co/EBZU0LDC1M</a></p>&mdash; Jukka Huhtamäki (@jnkka) <a href="https://twitter.com/jnkka/status/1131531758539870208?ref_src=twsrc%5Etfw">May 23, 2019</a></blockquote>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</section>
+
+<section>
+	<h1>Additional data: boundary resources</h1>
+	<p>
+		For a more complex example, we can use boundary resource data
+	</p>
+	<p><a href="http://programmableweb.com">Programmable Web</a> data is an example of data that can be collected by crawling and scraping</p>
+  <p>Related research:
+    <a href="http://dx.doi.org/10.1111/j.1467-9310.2009.00582.x">Weiss &amp; Gangadharan (2010)</a>,
+    <a href="http://dx.doi.org/10.1145/2856447">Evans &amp; Basole (2016)</a>,
+    <a href="https://doi.org/10.1109/MITP.2016.105">Basole (2016)</a>,
+    <a href="http://hdl.handle.net/10125/41804">Huhtamäki et al. (2017)</a>,
+    <a href="http://entsci.gatech.edu/publications/basole-2017-ecosystems_of_hype.pdf">Basole (2018)</a>
+  </p>
+	<!-- <p><img src="media/scopus-export.png" alt="Exporting bibliometric data from Scopus"/></p>
+	<p>Python-based process <a href="https://github.com/jukkahuhtamaki/data-driven-literature-review">is available</a> for scraping the data and converting it into network format</p> -->
+</section>
+
+<section>
+	<h1>Part 2: From data to network</h1>
+</section>
+
+<section>
+	<h1>Choices on network structure </h1>
+	<ol id="test">
+		<li>Which entities nodes represent?</li>
+		<li>On what basis are nodes connected to each other?</li>
+		<li>One, two or multimode network?</li>
+		<li>Directed or undirected?</li>
+		<li>Dichotomous vai weighed connections?</li>
+		<li>Static or dynamic (temporal)?</li>
+	</ol>
+	<p>Examples help here.</p>
+</section>
+
+<section>
+	<h1>Mystery networks</h1>
+	<p>Two "mystery networks" are available for analysis:</p>
+	<ul>
+		<li><a href="data/mystery-network-d5Ge.csv">Mystery network d5Ge</a></li>
+		<li><a href="data/mystery-network-8cRE.csv">Mystery network 8cRE</a></li>
+	</ul>
+	<p>Can you make sense on what the two networks might represent?</p>
+	<p>What were the most useful means to arrive to the final conlusion?</p>
+</section>
+
+<section>
+	<h1>From tweets to a network</h1>
+	<p>Let's decompose <a href="https://twitter.com/jnkka/status/932521513848393729">an example tweet</a> into network data:</p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="fi" dir="ltr">Käytössä <a href="https://twitter.com/Gephi?ref_src=twsrc%5Etfw">@Gephi</a>, <a href="https://twitter.com/ThePSF?ref_src=twsrc%5Etfw">@ThePSF</a> &amp; <a href="https://twitter.com/hashtag/ostinatomodel?src=hash&amp;ref_src=twsrc%5Etfw">#ostinatomodel</a>. Lue taustaksi <a href="https://twitter.com/otteitaverkosta?ref_src=twsrc%5Etfw">@otteitaverkosta</a>-kirjan luku <a href="https://twitter.com/hashtag/verkostoanalyysi?src=hash&amp;ref_src=twsrc%5Etfw">#verkostoanalyysi</a>:stä /cc <a href="https://twitter.com/jattipaa?ref_src=twsrc%5Etfw">@jattipaa</a></p>&mdash; Jukka Huhtamäki (@jnkka) <a href="https://twitter.com/jnkka/status/1131533927909404672?ref_src=twsrc%5Etfw">May 23, 2019</a></blockquote>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	<ol>
+		<li>Nodes? Edges?</li>
+		<li>One, two, multimode?</li>
+		<li>Directed or undirected?</li>
+		<li>Dichotomous or weighed?</li>
+		<li>Which criteria one should apply to make the decisions?</li>
+	</ol>
+</section>
+
+<!--<section>
+	<h1>Problem: identifying the nodes</h1>
+	<p>Twitter provides natural identifiers for nodes.</p>
+	<p>E.g. using bibliographical data is more problematic</p>
+	<p>One approach to finding unique names for nodes: <a href="http://openrefine.org/">OpenRefine</a></p>
+</section>-->
+
+<section>
+	<h1>Part 3: Network layout</h1>
+</section>
+
+<section>
+	<h1>Force-driven layout</h1>
+	<p>Layout refers to the act of placing the nodes on canvas</p>
+	<p>Force-driven layot is a straighforward option:</p>
+	<ol>
+		<li>Nodes repel each other</li>
+		<li>Connections act as springs pulling the nodes back together</li>
+		<li>The center of a gravitational field is placed in the middle of the canvas</li>
+		<li>The process is run and configured in iteration until the visualizer is happy with the result</li>
+	</ol>
+  <p><a href="https://doi.org/10.1371/journal.pone.0098679">ForceAtlas2</a> is an example of force-driven layout algorithm</p>
+</section>
+
+<section>
+	<h1>Network metrics</h1>
+	<ul>
+		<li>Degree: number of connections</li>
+		<li>Outdegree: number of connections away from a node</li>
+		<li>Indegree: number of connections toward a node</li>
+		<li>Betweenness centrality: shortest paths through a node</li>
+		<li>Authority: PageRank, HITS, ...</li>
+		<li>Clustering coefficient, closure, ...</li>
+	</ul>
+</section>
+
+<section>
+	<h1>The Ostinato Model</h1>
+	<p>
+		<img alt="Diagram: Ostinato Model" src="media/kredible_net_process_model-v07.png"/>
+	</p>
+	<p>Huhtamäki, J., Russell, M. G., Rubens, N., &amp; Still, K.
+    (<a href="https://link.springer.com/chapter/10.1007/978-3-319-18552-1_11">2015</a>). Ostinato: The exploration-automation cycle of user-centric, process-automated data-driven visual network analytics. In E. Bertino, S. Matei, &amp; M. G. Russell (Eds.), <a href="http://www.springer.com/us/book/9783319185514">Transparency in Social Media: Tools, Methods and Algorithms for Mediating Online Interactions</a>. Springer.</p>
+</section>
+
+<section data-markdown id="final">
+  <script type="text/template">
+  #Finally#
+
+  Jukka Huhtamäki
+
+  jukka.huhtamaki@tut.fi
+
+  [@jnkka](https://twitter.com/jnkka)
+
+  Uses [reveal.js](http://lab.hakim.se/reveal-js/#/) by <a href="">Hakim El Hattab</a>
+	</script>
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// Full list of configuration options available at:
+			// https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				mousewheel: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// Optional reveal.js plugins
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
