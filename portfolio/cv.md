@@ -111,12 +111,14 @@ Hyper: 1.9.2017–31.8.2021
 *	2006-2009 · OPAALS - Open Philosophies for Associative Digital Ecosystems, Network of Excellence, European Union FP6. Project researcher.
 
 **Research output**
-
 <!--
 * Methods, software, infrastructures, materials, guides and tools developed
 * Patents and inventions
 * Most significant artistic works and processes
 --> 
+
+* The Ostinato Model for iterative and incremental visual network analytics
+
 
 **Research supervision and leadership experience**
 
@@ -169,7 +171,7 @@ invited keynote lectures abroad -->
 
 **Impact in numbers**
 
-To be excluded from Academy of Finland CV and other applications where 
+Perhaps to be excluded from Academy of Finland CV and other applications that are evaluated in compliance with responsible science and [DORA](https://sfdora.org/read/). 
  
 * h-index: 21 ([Google Scholar](https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ&hl=fi&oi=ao])), 12 ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=35484079200))
 * Citations: 1579 (Google Scholar), 546 (Scopus)
