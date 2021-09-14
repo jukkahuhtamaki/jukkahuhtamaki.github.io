@@ -1,17 +1,18 @@
+<!--
 ---
 geometry: margin=2cm
 ---	
-
+-->
 
 <style type="text/css">
 	@page {
 	
-	size: A4;
+		size: A4;
 	  margin: 20mm;   /* play with these two to set it to your liking */
 	}
 	
  	body { 
- 		margin: 0; 
+ 		// margin: 0; 
 		font-size: 12pt;
 		font-family: Times New Roman, serif;
 	}
@@ -21,7 +22,7 @@ geometry: margin=2cm
 		margin: 1;
 	}
 	li {
-		font-size: 9pt;
+		// font-size: 9pt;
 	}
 	a {
 		color: black;
