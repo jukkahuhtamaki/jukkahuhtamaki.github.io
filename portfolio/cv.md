@@ -1,26 +1,22 @@
 <!--
 ---
 geometry: margin=2cm
----
+---	
 -->
-<head>
-
-
-<title>Resume: Jukka Huhtamäki | Senior Research Fellow</title>
 
 <style type="text/css">
 	@page {
-
+	
 		size: A4;
 	  margin: 20mm;   /* play with these two to set it to your liking */
 	}
-
- 	body {
- 		// margin: 0;
+	
+ 	body { 
+ 		// margin: 0; 
 		font-size: 12pt;
 		font-family: Times New Roman, serif;
 	}
-
+	
 	h2 {
 		font-size: 120%;
 		margin: 1;
@@ -37,9 +33,8 @@ geometry: margin=2cm
 	  line-height: 60%;
 	}
 </style>
-</head>
 
-<!-- You may have to export to PDF to get rid of the huge marginal at the top of page #1. -->
+<!-- You may have to export to PDF to get rid of the huge marginal at the top of page #1. --> 
 
 ## Curriculum Vitae ##
 
@@ -94,7 +89,7 @@ other skills -->
 * Project Researcher (March 15, 2005-April 30, 2014), Hypermedia Laboratory/Intelligent Information Systems Laboratory, Department of Mathematics, Tampere University of Technology.
 * Research assistant (March 15, 2000-March 14, 2005), Hypermedia Laboratory, Department of Mathematics, Tampere University of Technology, Tampere, Finland.
 
-**Research funding and grants**
+**Research funding and grants** 
 
 <!--
 Hyper: 1.9.2017–31.8.2021
@@ -121,13 +116,14 @@ Hyper: 1.9.2017–31.8.2021
 * Methods, software, infrastructures, materials, guides and tools developed
 * Patents and inventions
 * Most significant artistic works and processes
--->
+--> 
 
 * The Ostinato Model for iterative and incremental visual network analytics
 
 
 **Research supervision and leadership experience**
 
+* TBA
 
 
 **International mobility**
@@ -170,15 +166,15 @@ referee for scientific and scholarly journals
 administrative responsibilities at higher education institutions or at research organisations, responsibilities in the higher education community
 invited keynote lectures abroad -->
 
+
 **Scientific and societal impact**
 
-* Teetkö töitä kaltaistesi ympäröimänä? Ei välttämättä kannattaisi, ja siksi Tampereella tutkitaan nyt ”työelämän Tinderiä” [Article in Helsingin Sanomat](https://www.hs.fi/ura/art-2000006002983.html) on social matching
-
+* [Article in Helsingin Sanomat](https://www.hs.fi/ura/art-2000006002983.html) on social matching: "Teetkö töitä kaltaistesi ympäröimänä? Ei välttämättä kannattaisi, ja siksi Tampereella tutkitaan nyt 'työelämän Tinderiä'" 
 
 **Impact in numbers**
 
-Perhaps to be excluded from Academy of Finland CV and other applications that are evaluated in compliance with responsible science and [DORA](https://sfdora.org/read/).
-
+Perhaps to be excluded from Academy of Finland CV and other applications that are evaluated in compliance with responsible science and [DORA](https://sfdora.org/read/). 
+ 
 * h-index: 21 ([Google Scholar](https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ&hl=fi&oi=ao])), 12 ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=35484079200))
 * Citations: 1579 (Google Scholar), 546 (Scopus)
 
@@ -189,4 +185,6 @@ Perhaps to be excluded from Academy of Finland CV and other applications that ar
 * Developing responsible research and innovation activities
 * Key positions of trust, expert positions and assignments
 * Merits in science communication and appearing as an expert in the media
--->
+--> 
+
+
