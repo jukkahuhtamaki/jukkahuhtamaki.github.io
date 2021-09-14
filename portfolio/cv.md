@@ -7,7 +7,7 @@ geometry: margin=2cm
 	@page {
 	
 	size: A4;
-	  margin: 0;   /* play with these two to set it to your liking */
+	  margin: 20mm;   /* play with these two to set it to your liking */
 	}
 	
  	body { 
