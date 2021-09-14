@@ -78,7 +78,7 @@ other skills -->
 **Current position**
 
 * Senior Research Fellow (May 1, 2021-), Knowledge and Information Management, Faculty of Management and Business, Tampere University
-* Stage of academic career: III
+* Stage of academic career: III according to the Finnish four-stage research career model
 * Entrepreneur: Digiworks Jukka Huhtamäki Tmi (2770417-1)
 <!-- https://tietopalvelu.ytj.fi/yritystiedot.aspx?yavain=2632417&tarkiste=DA9769530B0B837779FF656156191C04D5DE41F1 -->
 
