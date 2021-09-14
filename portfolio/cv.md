@@ -19,7 +19,7 @@ geometry: margin=2cm
 	
 	h2 {
 		font-size: 120%;
-		margin: 1;
+		// margin: 1;
 	}
 	li {
 		// font-size: 9pt;
@@ -27,10 +27,12 @@ geometry: margin=2cm
 	a {
 		color: black;
 	}
+
+
 	p {
-	  padding: 0;
-	  margin: 0;
-	  line-height: 60%;
+	  // padding: 0;
+	  // margin: 0;
+	  // line-height: 60%;
 	}
 </style>
 
