@@ -125,8 +125,8 @@ Hyper: 1.9.2017–31.8.2021
 
 **Research supervision and leadership experience**
 
-* TBA
-
+* Currently co-supervising one doctoral researcher
+* Supervised tens of MSc thesis
 
 **International mobility**
 
@@ -155,22 +155,24 @@ Hyper: 1.9.2017–31.8.2021
 
 **Other academic merits**
 
-* Board member, Rajapinta, 2019-2020
-* Primary chair, Managing Platforms and Ecosystems Minitrack, HICSS 2020-2021
 * Co-chair, Managing Platforms and Ecosystems Minitrack, HICSS 2019, 2022
+* Co-founder of Rajapinta Research and Data Infrastructures subcommittee, 2021
+* Primary chair, Managing Platforms and Ecosystems Minitrack, HICSS 2020-2021
+* Board member, Rajapinta, 2019-2020
 * Associate Editor, Behaviormetrika, Springer
 * Associate Editor, Data Science and Predictive Analytics Track, ICIS 2018
-* Founding member of the Innovation Ecosystems Network
 * Member of the Open Science and Research Working Group at Tampere University, 2018
+* Founding member of the Innovation Ecosystems Network, 2011
 
 <!-- positions as editor-in-chief, editor, or member of editorial boards of scientific and scholarly journals and publication series
 referee for scientific and scholarly journals
 administrative responsibilities at higher education institutions or at research organisations, responsibilities in the higher education community
 invited keynote lectures abroad -->
 
-
 **Scientific and societal impact**
 
+* Active science communication with 2000 Twitter followers: [twitter.com/jnkka](https://twitter.com/jnkka) 
+* Proponent of open science practices: [github.com/jukkahuhtamaki](https://github.com/jukkahuhtamaki)
 * [Article in Helsingin Sanomat](https://www.hs.fi/ura/art-2000006002983.html) on social matching: "Teetkö töitä kaltaistesi ympäröimänä? Ei välttämättä kannattaisi, ja siksi Tampereella tutkitaan nyt 'työelämän Tinderiä'" 
 
 **Impact in numbers**
