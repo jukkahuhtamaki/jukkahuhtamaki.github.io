@@ -49,7 +49,7 @@ Huhtamäki, Jukka Viljami
 
 * ORC<span style="color: #a6ce39">iD</span> [0000-0003-2707-108X](https://orcid.org/0000-0003-2707-108X)
 <!--* Male -->
-* Updated: September 15, 2021
+* Updated: September 22, 2021
 
 **Date and place of birth, nationality, current residence**
 
@@ -126,7 +126,7 @@ Hyper: 1.9.2017–31.8.2021
 **Research supervision and leadership experience**
 
 * Currently co-supervising one doctoral researcher
-* Supervised tens of MSc thesis
+* Total of 20 Master of Science theses supervised 
 
 **International mobility**
 
@@ -144,7 +144,6 @@ Hyper: 1.9.2017–31.8.2021
 * Structured documents (Rakenteiset dokumentit), undergraduate, in Finnish, 2003-2004
 * Special Assignment in Hypermedia and Hypermedia Project Work, 2002-2016
 * Development of teaching methods as part of teaching duties at Hypermedia/Intelligent Information Systems Laboratory
-* Total of 14 Master of Science theses supervised
 
 **Awards and honours**
 
@@ -179,6 +178,7 @@ invited keynote lectures abroad -->
 
 Perhaps to be excluded from Academy of Finland CV and other applications that are evaluated in compliance with responsible science and [DORA](https://sfdora.org/read/). 
  
+* 24 journal articles, 7 book chapters and 57 conference papers,
 * h-index: 21 ([Google Scholar](https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ&hl=fi&oi=ao])), 12 ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=35484079200))
 * Citations: 1579 (Google Scholar), 546 (Scopus)
 
