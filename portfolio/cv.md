@@ -1,4 +1,12 @@
 <!--
+
+308850 HYTE  309 180 EUR
+
+309134 vakkuri jarmo Performance measurement for hybrid governance 480 000 EUR
+
+-->
+
+<!--
 ---
 geometry: margin=2cm
 ---	
@@ -49,7 +57,7 @@ Huhtamäki, Jukka Viljami
 
 * ORC<span style="color: #a6ce39">iD</span> [0000-0003-2707-108X](https://orcid.org/0000-0003-2707-108X)
 <!--* Male -->
-* Updated: September 22, 2021
+* Updated: September 13, 2023
 
 **Date and place of birth, nationality, current residence**
 
@@ -70,48 +78,51 @@ Huhtamäki, Jukka Viljami
 <!-- other studies aiming at a degree, qualifications or supplementary education and training: name of educational or training programme, extent of education and training, organiser, start and completion (estimated) date of education or training
 other skills -->
 
+<!--
 **Linguistic skills**
 
 * Finnish
-* English (professional)
+* English (professional) -->
 
 **Current position**
 
 * Senior Research Fellow (May 1, 2021-), Knowledge and Information Management, Faculty of Management and Business, Tampere University
+* Grant researcher (January 1, 2022-), University of Helsinki
 * Stage of academic career: III according to the Finnish four-stage research career model
-* Entrepreneur: Digiworks Jukka Huhtamäki Tmi (2770417-1)
+* CTO and entrepreneur: Arvova Oy Ltd (3108217-6), Digiworks Jukka Huhtamäki Tmi (2770417-1)
 <!-- https://tietopalvelu.ytj.fi/yritystiedot.aspx?yavain=2632417&tarkiste=DA9769530B0B837779FF656156191C04D5DE41F1 -->
 
 **Previous work experience**
 
 * Postdoctoral Research Fellow (January 1, 2019-April 30, 2021), Knowledge and Information Management, Faculty of Management and Business, Tampere University
-* Postdoctoral Researcher (September 1, 2017-December 31, 2018), School of Communication, Media and Theatre, Faculty of Communication Sciences, University of Tampere.
-* Postdoctoral Researcher (January 1, 2017-December 31, 2018), Industrial and Information Management, Tampere University of Technology.
-* Project Manager (May 1, 2014-December 31, 2016), Intelligent Information Systems Laboratory, Department of Mathematics, Tampere University of Technology.
-* Project Researcher (March 15, 2005-April 30, 2014), Hypermedia Laboratory/Intelligent Information Systems Laboratory, Department of Mathematics, Tampere University of Technology.
-* Research assistant (March 15, 2000-March 14, 2005), Hypermedia Laboratory, Department of Mathematics, Tampere University of Technology, Tampere, Finland.
+* Postdoctoral Researcher (September 1, 2017-December 31, 2018), School of Communication, Media and Theatre, Faculty of Communication Sciences, University of Tampere
+* Postdoctoral Researcher (January 1, 2017-December 31, 2018), Industrial and Information Management, Tampere University of Technology
+* Project Manager (May 1, 2014-December 31, 2016), Intelligent Information Systems Laboratory, Department of Mathematics, Tampere University of Technology
+* Project Researcher (March 15, 2005-April 30, 2014), Hypermedia Laboratory/Intelligent Information Systems Laboratory, Department of Mathematics, Tampere University of Technology
+* Research assistant (March 15, 2000-March 14, 2005), Hypermedia Laboratory, Department of Mathematics, Tampere University of Technology, Tampere, Finland
 
 **Research funding and grants** 
 
+* 2022-2024 · SODA - Fluid Organizing on Digital Platforms, Foundation for Economic Education. Grant researcher. PI Salla-Maaria Laaksonen, University of Helsinki.  200 000 EUR.
 <!--
-Hyper: 1.9.2017–31.8.2021
+Hyper: 1.9.2017–31.8.2021 
 -->
-* 2017-2021 · HYTE - Hybrid Terrorizing. Developing a New Model for the Study of Global Media Events of Terrorist Violence. Academy of Finland (308850). PI Katja Valaskivi, Tampere University. Postdoctoral Researcher at Tampere University.
+* 2017-2021 · HYTE - Hybrid Terrorizing. Developing a New Model for the Study of Global Media Events of Terrorist Violence, Academy of Finland (308850). Postdoctoral Researcher. PI Katja Valaskivi, Tampere University. 309180 EUR.
 <!-- 01.09.2017 - 31.08.2021 -->
 <!-- 480 000 EUR -->
-* 2017-2021 · HYPER - Performance Measurement for Hybrid Governance. Academy of Finland (309134). PI Jarmo Vakkuri, Tampere University. Postdoctoral Researcher at Tampere University.
-* 2019-2021 · FAST - Fast Expert Teams, Business Finland. PI Kirsimarja Blomqvist, LUT University. Scientific advisor and project researcher.
+* 2017-2021 · HYPER - Performance Measurement for Hybrid Governance, Academy of Finland (309134). Postdoctoral Researcher. PI Jarmo Vakkuri, Tampere University.
+* 2019-2021 · FAST - Fast Expert Teams, Business Finland. Scientific advisor and project researcher. PI Kirsimarja Blomqvist, LUT University. 
 <!-- 1.9.2017-30.11.2019 -->
 <!--  300 000 EUR -->
-* 2017-2019 · BIG Match - Better Social Matches in Professional Life through Analysis of Big Social Data. Business Finland (3166/31/2017). Co-PI at Tampere University in collaboration with Associate Professor Thomas Olsson.
+* 2017-2019 · BIG Match - Better Social Matches in Professional Life through Analysis of Big Social Data, Business Finland (3166/31/2017). Co-PI with Thomas Olsson, Tampere University. 180 000 EUR.
 <!-- 01.09.2017 - 31.08.2021 -->
 <!-- 309 180 EUR -->
-* 2016-2017 · COBWEB - Enhancing Knowledge Work and Co-creation with Analysis of Weak Ties in Online Services. Academy of Finland. PI Hannu Kärkkäinen, sub-PI Ossi Nykänen/Tapio Elomaa. Project researcher.
-* 2014-2015 · SPEED - Systemic paths of ecosystem evolution dynamics, TEKES. (PI Hannu Kärkkäinen, sub-PI Seppo Pohjolainen). Project manager
+* 2016-2017 · COBWEB - Enhancing Knowledge Work and Co-creation with Analysis of Weak Ties in Online Services, Academy of Finland. Project researcher. PI Hannu Kärkkäinen, Tampere University. 
+* 2014-2015 · SPEED - Systemic paths of ecosystem evolution dynamics, TEKES. Project manager. PI Hannu Kärkkäinen. 
 * 2013-2015 · REINO - Relational capital for innovative growth companies, TEKES. Project manager.
 * 2010-2012 · SINDI - Social media-supported indicators for user-driven service innovation, TEKES. Project manager.
 * 2009-2010 · Erimenu.fi, Finland’s Slot Machine Association. Project researcher.
-*	2006-2009 · OPAALS - Open Philosophies for Associative Digital Ecosystems, Network of Excellence, European Union FP6. Project researcher.
+* 2006-2009 · OPAALS - Open Philosophies for Associative Digital Ecosystems, Network of Excellence, European Union FP6. Project researcher.
 
 **Research output**
 <!--
@@ -121,12 +132,13 @@ Hyper: 1.9.2017–31.8.2021
 --> 
 
 * The Ostinato Model for iterative and incremental visual network analytics
-
+* Full list of publications: [https://researchportal.tuni.fi/en/persons/jukka-huhtam%C3%A4ki/publications/](https://researchportal.tuni.fi/en/persons/jukka-huhtam%C3%A4ki/publications/)
 
 **Research supervision and leadership experience**
 
+* One doctoral thesis supervised (Erjon Skenderi) 
 * Currently co-supervising one doctoral researcher
-* Total of 20 Master of Science theses supervised 
+* Total of 30+ Master of Science theses supervised 
 
 **International mobility**
 
@@ -143,7 +155,7 @@ Hyper: 1.9.2017–31.8.2021
 * Basics of Hypermedia (Hypermedian perusteet), undergraduate, in Finnish, 2003-2004
 * Structured documents (Rakenteiset dokumentit), undergraduate, in Finnish, 2003-2004
 * Special Assignment in Hypermedia and Hypermedia Project Work, 2002-2016
-* Development of teaching methods as part of teaching duties at Hypermedia/Intelligent Information Systems Laboratory
+* Continuos development of technology-based teaching methods 
 
 **Awards and honours**
 
@@ -154,7 +166,7 @@ Hyper: 1.9.2017–31.8.2021
 
 **Other academic merits**
 
-* Co-chair, Managing Platforms and Ecosystems Minitrack, HICSS 2019, 2022
+* Co-chair, Managing Platforms and Ecosystems Minitrack, HICSS 2019, 2022-2024
 * Co-founder of Rajapinta Research and Data Infrastructures subcommittee, 2021
 * Primary chair, Managing Platforms and Ecosystems Minitrack, HICSS 2020-2021
 * Board member, Rajapinta, 2019-2020
@@ -170,17 +182,17 @@ invited keynote lectures abroad -->
 
 **Scientific and societal impact**
 
-* Active science communication with 2000 Twitter followers: [twitter.com/jnkka](https://twitter.com/jnkka) 
+* Active science communication with 2100 Twitter followers: [twitter.com/jnkka](https://twitter.com/jnkka) 
 * Proponent of open science practices: [github.com/jukkahuhtamaki](https://github.com/jukkahuhtamaki)
-* [Article in Helsingin Sanomat](https://www.hs.fi/ura/art-2000006002983.html) on social matching: "Teetkö töitä kaltaistesi ympäröimänä? Ei välttämättä kannattaisi, ja siksi Tampereella tutkitaan nyt 'työelämän Tinderiä'" 
+* [Article in Helsingin Sanomat](https://www.hs.fi/ura/art-2000006002983.html) on social matching (February 24, 2019): "Teetkö töitä kaltaistesi ympäröimänä? Ei välttämättä kannattaisi, ja siksi Tampereella tutkitaan nyt 'työelämän Tinderiä'" 
 
 **Impact in numbers**
 
-Perhaps to be excluded from Academy of Finland CV and other applications that are evaluated in compliance with responsible science and [DORA](https://sfdora.org/read/). 
+<!-- Perhaps to be excluded from Academy of Finland CV and other applications that are evaluated in compliance with responsible science and [DORA](https://sfdora.org/read/).-->
  
-* 24 journal articles, 7 book chapters and 57 conference papers,
-* h-index: 21 ([Google Scholar](https://scholar.google.fi/citations?user=ZWiTwHQAAAAJ&hl=fi&oi=ao])), 12 ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=35484079200))
-* Citations: 1579 (Google Scholar), 546 (Scopus)
+* 29 journal articles, 7 book chapters and 63 conference papers
+* h-index: 24 ([Google Scholar](https://scholar.google.com/citations?user=78zElQsAAAAJ])), 13 ([Scopus](https://www.scopus.com/authid/detail.uri?authorId=35484079200))
+* Citations: 2197 (Google Scholar), 621 (Scopus)
 
 <!--
 * Promoting open science and research, for example the production and responsible distribution of research material and datasets
