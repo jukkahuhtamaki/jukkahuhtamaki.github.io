@@ -65,6 +65,9 @@ yritys- tai henkilötieto ei viittaa todellisiin tahoihin.
 
 > Älä luota — tarkista. Tekoäly ei ole auktoriteetti, se on työkalu.
 
+**[Lataa koko paketti (puuhapaketti.zip)](puuhapaketti.zip)** — sisältää kaikki
+ostotositteet ja CLV-datan yhdessä tiedostossa.
+
 ### Tehtävä 1: Ostolaskujen automaattinen käsittely
 
 Kymmenen synteettistä ostotositetta (PDF) kuvitteellisilta ohjelmisto- ja
