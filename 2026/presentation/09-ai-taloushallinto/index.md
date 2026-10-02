@@ -1,41 +1,37 @@
 <style type="text/css">
   body {
-    background-color: #0a0a0a;
-    color: #c8c8c8;
+    background-color: #141414;
+    color: #d4d4d4;
   }
   #main {
     max-width: 760px;
     font-family: "Courier New", "SF Mono", Consolas, monospace;
   }
   .terminal {
-    background: #000;
-    border: 1px solid #2a2a2a;
-    border-left: 3px solid #39ff14;
-    padding: 1.5em 1.8em;
-    box-shadow: 0 0 18px rgba(57, 255, 20, 0.08);
+    background: #191919;
+    border: 1px solid #2e2e2e;
+    padding: 1.6em 1.9em;
   }
   .terminal h2, .terminal h3 {
     font-family: inherit;
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    color: #39ff14;
-    border-bottom: 1px dashed #333;
+    font-weight: normal;
+    color: #8fd19e;
+    border-bottom: 1px solid #2e2e2e;
     padding-bottom: 0.4em;
   }
-  .terminal h2::before { content: "root@puuhapaketti:~# "; color: #666; font-size: 0.6em; display: block; margin-bottom: 0.3em; }
-  .terminal h3::before { content: "> "; color: #ff003c; }
+  .terminal h3::before { content: "> "; color: #666; }
   .terminal p, .terminal li { line-height: 1.6; }
-  .terminal strong { color: #39ff14; }
-  .terminal a { color: #39ff14; text-decoration: underline; }
-  .terminal a:hover { color: #ff003c; }
+  .terminal strong { color: #8fd19e; }
+  .terminal a { color: #8fd19e; text-decoration: underline; }
+  .terminal a:hover { color: #d4d4d4; }
   .terminal code {
     background: #111;
-    color: #39ff14;
+    color: #8fd19e;
     padding: 0.1em 0.35em;
     border-radius: 2px;
   }
   .terminal blockquote {
-    border-left: 2px solid #ff003c;
+    border-left: 2px solid #444;
     margin-left: 0;
     padding-left: 1em;
     color: #999;
@@ -44,25 +40,21 @@
   .terminal ul, .terminal ol { margin-left: 0.2em; }
   .terminal hr {
     border: none;
-    border-top: 1px dashed #333;
+    border-top: 1px solid #2e2e2e;
     margin: 2em 0;
   }
   .tag {
     display: inline-block;
-    background: #111;
-    color: #ff003c;
-    border: 1px solid #ff003c;
+    color: #888;
     font-size: 0.75em;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    padding: 0.15em 0.5em;
+    letter-spacing: 0.05em;
     margin-bottom: 1em;
   }
 </style>
 
 <div class="terminal" markdown="1">
 
-<span class="tag">classified // synteettinen aineisto</span>
+<span class="tag">synteettinen aineisto — ei oikeita yrityksiä tai henkilöitä</span>
 
 ## Puuhapaketti: Tekoäly taloushallinnossa
 
@@ -71,13 +63,23 @@ Tämä puuhapaketti sisältää kaksi harjoitusta, joissa pääset kokeilemaan t
 Molemmissa harjoituksissa aineisto on täysin synteettistä eli keksittyä — mikään
 yritys- tai henkilötieto ei viittaa todellisiin tahoihin.
 
-> Älä luota — tarkista. Tekoäly ei ole koskaan auktoriteetti, se on työkalu.
+> Älä luota — tarkista. Tekoäly ei ole auktoriteetti, se on työkalu.
 
 ### Tehtävä 1: Ostolaskujen automaattinen käsittely
 
-Kansiossa [`10_synteettista_ostotositetta`](10_synteettista_ostotositetta/) on
-kymmenen synteettistä ostotositetta (PDF) kuvitteellisilta ohjelmisto- ja
-AI-palveluntarjoajilta.
+Kymmenen synteettistä ostotositetta (PDF) kuvitteellisilta ohjelmisto- ja
+AI-palveluntarjoajilta:
+
+1. [Nordic AI Services](10_synteettista_ostotositetta/01_nordic_ai_services.pdf)
+2. [Cloud North Europe](10_synteettista_ostotositetta/02_cloud_north_europe.pdf)
+3. [Open Model API](10_synteettista_ostotositetta/03_open_model_api.pdf)
+4. [UX Lab](10_synteettista_ostotositetta/04_ux_lab.pdf)
+5. [Data License Partners](10_synteettista_ostotositetta/05_data_license_partners.pdf)
+6. [SecureByte](10_synteettista_ostotositetta/06_securebyte.pdf)
+7. [DevTools Europe](10_synteettista_ostotositetta/07_devtools_europe.pdf)
+8. [AI Quality House](10_synteettista_ostotositetta/08_ai_quality_house.pdf)
+9. [Promptworks](10_synteettista_ostotositetta/09_promptworks.pdf)
+10. [Vector Hosting](10_synteettista_ostotositetta/10_vector_hosting.pdf)
 
 **Tehtävänanto:**
 
@@ -96,7 +98,7 @@ AI-palveluntarjoajilta.
 
 ### Tehtävä 2: Asiakkaiden CLV-ennustaminen
 
-Kansiossa [`clv-data`](clv-data/) on kaksi synteettistä CSV-tiedostoa:
+Kaksi synteettistä CSV-tiedostoa:
 
 - [`asiakkaat.csv`](clv-data/asiakkaat.csv) — 60 kuvitteellista yritysasiakasta
   (toimiala, segmentti, maa, liittymispäivä ym.)
